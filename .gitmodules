@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/biocstaging/biocstaging.r-universe.dev
 	branch = HEAD
+[submodule "spbtest3"]
+	path = spbtest3
+	url = https://github.com/Bioconductor/spbtest3
+[submodule "spbtest5"]
+	path = spbtest5
+	url = https://github.com/Bioconductor/spbtest5
