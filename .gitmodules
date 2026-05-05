@@ -5,6 +5,9 @@
 [submodule "LoriPkgTest2"]
 	path = LoriPkgTest2
 	url = https://github.com/BiocStaging/LoriPkgTest2
+[submodule "MultipleAlignment"]
+	path = MultipleAlignment
+	url = https://github.com/BiocStaging/MultipleAlignment
 [submodule "spbtest3"]
 	path = spbtest3
 	url = https://github.com/Bioconductor/spbtest3
