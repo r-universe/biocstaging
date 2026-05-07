@@ -8,6 +8,9 @@
 [submodule "MultipleAlignment"]
 	path = MultipleAlignment
 	url = https://github.com/BiocStaging/MultipleAlignment
+[submodule "ontoProc2"]
+	path = ontoProc2
+	url = https://github.com/BiocStaging/ontoProc2
 [submodule "spbtest3"]
 	path = spbtest3
 	url = https://github.com/Bioconductor/spbtest3
