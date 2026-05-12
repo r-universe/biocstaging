@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/biocstaging/biocstaging.r-universe.dev
 	branch = HEAD
+[submodule "GO.ddb"]
+	path = GO.ddb
+	url = https://github.com/BiocStaging/GO.ddb
 [submodule "LoriPkgTest2"]
 	path = LoriPkgTest2
 	url = https://github.com/BiocStaging/LoriPkgTest2
