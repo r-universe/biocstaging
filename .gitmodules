@@ -11,6 +11,9 @@
 [submodule "MultipleAlignment"]
 	path = MultipleAlignment
 	url = https://github.com/BiocStaging/MultipleAlignment
+[submodule "TxParq.Hs.gencode.v49"]
+	path = TxParq.Hs.gencode.v49
+	url = https://github.com/BiocStaging/TxParq.Hs.gencode.v49
 [submodule "ontoProc2"]
 	path = ontoProc2
 	url = https://github.com/BiocStaging/ontoProc2
