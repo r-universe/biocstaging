@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/biocstaging/biocstaging.r-universe.dev
 	branch = HEAD
+[submodule "EMMA"]
+	path = EMMA
+	url = https://github.com/BiocStaging/EMMA
 [submodule "GO.ddb"]
 	path = GO.ddb
 	url = https://github.com/BiocStaging/GO.ddb
@@ -11,6 +14,9 @@
 [submodule "TxParq.Hs.gencode.v49"]
 	path = TxParq.Hs.gencode.v49
 	url = https://github.com/BiocStaging/TxParq.Hs.gencode.v49
+[submodule "iSEEid"]
+	path = iSEEid
+	url = https://github.com/BiocStaging/iSEEid
 [submodule "ontoProc2"]
 	path = ontoProc2
 	url = https://github.com/BiocStaging/ontoProc2
