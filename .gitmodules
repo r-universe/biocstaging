@@ -8,6 +8,9 @@
 [submodule "GO.ddb"]
 	path = GO.ddb
 	url = https://github.com/BiocStaging/GO.ddb
+[submodule "KEGGemUP"]
+	path = KEGGemUP
+	url = https://github.com/BiocStaging/KEGGemUP
 [submodule "MultipleAlignment"]
 	path = MultipleAlignment
 	url = https://github.com/BiocStaging/MultipleAlignment
