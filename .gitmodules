@@ -23,6 +23,9 @@
 [submodule "ontoProc2"]
 	path = ontoProc2
 	url = https://github.com/BiocStaging/ontoProc2
+[submodule "spatialdataR"]
+	path = spatialdataR
+	url = https://github.com/BiocStaging/spatialdataR
 [submodule "spbtest3"]
 	path = spbtest3
 	url = https://github.com/Bioconductor/spbtest3
