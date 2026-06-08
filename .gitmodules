@@ -14,12 +14,21 @@
 [submodule "MsBackendMassIVE"]
 	path = MsBackendMassIVE
 	url = https://github.com/BiocStaging/MsBackendMassIVE
+[submodule "SimiCviz"]
+	path = SimiCviz
+	url = https://github.com/BiocStaging/SimiCviz
+[submodule "TiDEomics"]
+	path = TiDEomics
+	url = https://github.com/BiocStaging/TiDEomics
 [submodule "TxParq.Hs.gencode.v49"]
 	path = TxParq.Hs.gencode.v49
 	url = https://github.com/BiocStaging/TxParq.Hs.gencode.v49
 [submodule "gesel"]
 	path = gesel
 	url = https://github.com/BiocStaging/gesel
+[submodule "grayleafspotr"]
+	path = grayleafspotr
+	url = https://github.com/BiocStaging/grayleafspotr
 [submodule "iSEEid"]
 	path = iSEEid
 	url = https://github.com/BiocStaging/iSEEid
