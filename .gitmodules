@@ -11,6 +11,9 @@
 [submodule "KEGGemUP"]
 	path = KEGGemUP
 	url = https://github.com/BiocStaging/KEGGemUP
+[submodule "MsBackendMassIVE"]
+	path = MsBackendMassIVE
+	url = https://github.com/BiocStaging/MsBackendMassIVE
 [submodule "TxParq.Hs.gencode.v49"]
 	path = TxParq.Hs.gencode.v49
 	url = https://github.com/BiocStaging/TxParq.Hs.gencode.v49
