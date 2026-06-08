@@ -23,6 +23,9 @@
 [submodule "TxParq.Hs.gencode.v49"]
 	path = TxParq.Hs.gencode.v49
 	url = https://github.com/BiocStaging/TxParq.Hs.gencode.v49
+[submodule "bHIVE"]
+	path = bHIVE
+	url = https://github.com/BiocStaging/bHIVE
 [submodule "gesel"]
 	path = gesel
 	url = https://github.com/BiocStaging/gesel
