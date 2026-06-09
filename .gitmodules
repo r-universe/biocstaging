@@ -2,12 +2,18 @@
 	path = .registry
 	url = https://github.com/biocstaging/biocstaging.r-universe.dev
 	branch = HEAD
+[submodule "DAssemble"]
+	path = DAssemble
+	url = https://github.com/BiocStaging/DAssemble
 [submodule "EMMA"]
 	path = EMMA
 	url = https://github.com/BiocStaging/EMMA
 [submodule "GO.ddb"]
 	path = GO.ddb
 	url = https://github.com/BiocStaging/GO.ddb
+[submodule "IntegratedLearner"]
+	path = IntegratedLearner
+	url = https://github.com/BiocStaging/IntegratedLearner
 [submodule "KEGGemUP"]
 	path = KEGGemUP
 	url = https://github.com/BiocStaging/KEGGemUP
@@ -17,6 +23,9 @@
 [submodule "MsBackendMassIVE"]
 	path = MsBackendMassIVE
 	url = https://github.com/BiocStaging/MsBackendMassIVE
+[submodule "MultiOmicsBridge"]
+	path = MultiOmicsBridge
+	url = https://github.com/BiocStaging/MultiOmicsBridge
 [submodule "PlantTxDbHub"]
 	path = PlantTxDbHub
 	url = https://github.com/BiocStaging/PlantTxDbHub
@@ -32,6 +41,12 @@
 [submodule "bHIVE"]
 	path = bHIVE
 	url = https://github.com/BiocStaging/bHIVE
+[submodule "epiwraps"]
+	path = epiwraps
+	url = https://github.com/BiocStaging/epiwraps
+[submodule "geneslator"]
+	path = geneslator
+	url = https://github.com/BiocStaging/geneslator
 [submodule "gesel"]
 	path = gesel
 	url = https://github.com/BiocStaging/gesel
@@ -50,6 +65,9 @@
 [submodule "sbivar"]
 	path = sbivar
 	url = https://github.com/BiocStaging/sbivar
+[submodule "scCompoundDE"]
+	path = scCompoundDE
+	url = https://github.com/BiocStaging/scCompoundDE
 [submodule "spatialdataR"]
 	path = spatialdataR
 	url = https://github.com/BiocStaging/spatialdataR
