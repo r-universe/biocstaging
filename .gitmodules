@@ -11,9 +11,15 @@
 [submodule "KEGGemUP"]
 	path = KEGGemUP
 	url = https://github.com/BiocStaging/KEGGemUP
+[submodule "MetaPathNet"]
+	path = MetaPathNet
+	url = https://github.com/BiocStaging/MetaPathNet
 [submodule "MsBackendMassIVE"]
 	path = MsBackendMassIVE
 	url = https://github.com/BiocStaging/MsBackendMassIVE
+[submodule "PlantTxDbHub"]
+	path = PlantTxDbHub
+	url = https://github.com/BiocStaging/PlantTxDbHub
 [submodule "SimiCviz"]
 	path = SimiCviz
 	url = https://github.com/BiocStaging/SimiCviz
