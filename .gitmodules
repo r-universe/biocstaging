@@ -47,6 +47,9 @@
 [submodule "pgen2gds"]
 	path = pgen2gds
 	url = https://github.com/BiocStaging/pgen2gds
+[submodule "sbivar"]
+	path = sbivar
+	url = https://github.com/BiocStaging/sbivar
 [submodule "spatialdataR"]
 	path = spatialdataR
 	url = https://github.com/BiocStaging/spatialdataR
