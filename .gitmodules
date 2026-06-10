@@ -62,6 +62,9 @@
 [submodule "pgen2gds"]
 	path = pgen2gds
 	url = https://github.com/BiocStaging/pgen2gds
+[submodule "rvarsim"]
+	path = rvarsim
+	url = https://github.com/BiocStaging/rvarsim
 [submodule "sbivar"]
 	path = sbivar
 	url = https://github.com/BiocStaging/sbivar
