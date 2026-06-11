@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/biocstaging/biocstaging.r-universe.dev
 	branch = HEAD
+[submodule "CMEnt"]
+	path = CMEnt
+	url = https://github.com/BiocStaging/CMEnt
 [submodule "DAssemble"]
 	path = DAssemble
 	url = https://github.com/BiocStaging/DAssemble
