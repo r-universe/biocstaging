@@ -14,9 +14,6 @@
 [submodule "IntegratedLearner"]
 	path = IntegratedLearner
 	url = https://github.com/BiocStaging/IntegratedLearner
-[submodule "KEGGemUP"]
-	path = KEGGemUP
-	url = https://github.com/BiocStaging/KEGGemUP
 [submodule "MetaPathNet"]
 	path = MetaPathNet
 	url = https://github.com/BiocStaging/MetaPathNet
@@ -62,6 +59,9 @@
 [submodule "pgen2gds"]
 	path = pgen2gds
 	url = https://github.com/BiocStaging/pgen2gds
+[submodule "polyICSFlow"]
+	path = polyICSFlow
+	url = https://github.com/BiocStaging/polyICSFlow
 [submodule "rvarsim"]
 	path = rvarsim
 	url = https://github.com/BiocStaging/rvarsim
