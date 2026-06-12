@@ -44,6 +44,9 @@
 [submodule "bHIVE"]
 	path = bHIVE
 	url = https://github.com/BiocStaging/bHIVE
+[submodule "dbSequence"]
+	path = dbSequence
+	url = https://github.com/BiocStaging/dbSequence
 [submodule "epiwraps"]
 	path = epiwraps
 	url = https://github.com/BiocStaging/epiwraps
