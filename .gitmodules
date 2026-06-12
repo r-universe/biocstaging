@@ -17,6 +17,9 @@
 [submodule "IntegratedLearner"]
 	path = IntegratedLearner
 	url = https://github.com/BiocStaging/IntegratedLearner
+[submodule "LIPIDIFy"]
+	path = LIPIDIFy
+	url = https://github.com/BiocStaging/LIPIDIFy
 [submodule "MetaPathNet"]
 	path = MetaPathNet
 	url = https://github.com/BiocStaging/MetaPathNet
