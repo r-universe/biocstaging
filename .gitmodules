@@ -50,6 +50,9 @@
 [submodule "epiwraps"]
 	path = epiwraps
 	url = https://github.com/BiocStaging/epiwraps
+[submodule "gdscloud"]
+	path = gdscloud
+	url = https://github.com/BiocStaging/gdscloud
 [submodule "geneslator"]
 	path = geneslator
 	url = https://github.com/BiocStaging/geneslator
