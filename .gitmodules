@@ -80,6 +80,9 @@
 [submodule "scCompoundDE"]
 	path = scCompoundDE
 	url = https://github.com/BiocStaging/scCompoundDE
+[submodule "sciNOME"]
+	path = sciNOME
+	url = https://github.com/BiocStaging/sciNOME
 [submodule "spatialdataR"]
 	path = spatialdataR
 	url = https://github.com/BiocStaging/spatialdataR
