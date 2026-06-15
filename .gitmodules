@@ -62,9 +62,6 @@
 [submodule "grayleafspotr"]
 	path = grayleafspotr
 	url = https://github.com/BiocStaging/grayleafspotr
-[submodule "iSEEid"]
-	path = iSEEid
-	url = https://github.com/BiocStaging/iSEEid
 [submodule "ontoProc2"]
 	path = ontoProc2
 	url = https://github.com/BiocStaging/ontoProc2
