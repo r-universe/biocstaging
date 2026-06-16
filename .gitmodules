@@ -62,6 +62,9 @@
 [submodule "grayleafspotr"]
 	path = grayleafspotr
 	url = https://github.com/BiocStaging/grayleafspotr
+[submodule "loopcityData"]
+	path = loopcityData
+	url = https://github.com/BiocStaging/loopcityData
 [submodule "ontoProc2"]
 	path = ontoProc2
 	url = https://github.com/BiocStaging/ontoProc2
