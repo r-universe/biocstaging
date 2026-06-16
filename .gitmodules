@@ -20,6 +20,9 @@
 [submodule "LIPIDIFy"]
 	path = LIPIDIFy
 	url = https://github.com/BiocStaging/LIPIDIFy
+[submodule "MOTL"]
+	path = MOTL
+	url = https://github.com/BiocStaging/MOTL
 [submodule "MetaPathNet"]
 	path = MetaPathNet
 	url = https://github.com/BiocStaging/MetaPathNet
