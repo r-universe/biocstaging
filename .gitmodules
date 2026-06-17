@@ -71,6 +71,9 @@
 [submodule "ontoProc2"]
 	path = ontoProc2
 	url = https://github.com/BiocStaging/ontoProc2
+[submodule "pepitope"]
+	path = pepitope
+	url = https://github.com/BiocStaging/pepitope
 [submodule "polyICSFlow"]
 	path = polyICSFlow
 	url = https://github.com/BiocStaging/polyICSFlow
