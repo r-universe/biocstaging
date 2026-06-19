@@ -8,9 +8,6 @@
 [submodule "DAssemble"]
 	path = DAssemble
 	url = https://github.com/BiocStaging/DAssemble
-[submodule "EMMA"]
-	path = EMMA
-	url = https://github.com/BiocStaging/EMMA
 [submodule "GO.ddb"]
 	path = GO.ddb
 	url = https://github.com/BiocStaging/GO.ddb
@@ -32,6 +29,9 @@
 [submodule "MultiOmicsBridge"]
 	path = MultiOmicsBridge
 	url = https://github.com/BiocStaging/MultiOmicsBridge
+[submodule "PACMOSData"]
+	path = PACMOSData
+	url = https://github.com/BiocStaging/PACMOSData
 [submodule "PlantTxDbHub"]
 	path = PlantTxDbHub
 	url = https://github.com/BiocStaging/PlantTxDbHub
