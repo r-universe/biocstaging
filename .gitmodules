@@ -5,6 +5,9 @@
 [submodule "CMEnt"]
 	path = CMEnt
 	url = https://github.com/BiocStaging/CMEnt
+[submodule "CySA"]
+	path = CySA
+	url = https://github.com/BiocStaging/CySA
 [submodule "DAssemble"]
 	path = DAssemble
 	url = https://github.com/BiocStaging/DAssemble
