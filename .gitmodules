@@ -62,9 +62,6 @@
 [submodule "geneslator"]
 	path = geneslator
 	url = https://github.com/BiocStaging/geneslator
-[submodule "gesel"]
-	path = gesel
-	url = https://github.com/BiocStaging/gesel
 [submodule "grayleafspotr"]
 	path = grayleafspotr
 	url = https://github.com/BiocStaging/grayleafspotr
