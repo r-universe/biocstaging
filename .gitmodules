@@ -95,6 +95,9 @@
 [submodule "scCompoundDE"]
 	path = scCompoundDE
 	url = https://github.com/BiocStaging/scCompoundDE
+[submodule "scOverlay"]
+	path = scOverlay
+	url = https://github.com/BiocStaging/scOverlay
 [submodule "sciNOME"]
 	path = sciNOME
 	url = https://github.com/BiocStaging/sciNOME
