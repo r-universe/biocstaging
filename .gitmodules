@@ -32,6 +32,9 @@
 [submodule "MsBackendMassIVE"]
 	path = MsBackendMassIVE
 	url = https://github.com/BiocStaging/MsBackendMassIVE
+[submodule "MsStash"]
+	path = MsStash
+	url = https://github.com/BiocStaging/MsStash
 [submodule "MultiOmicsBridge"]
 	path = MultiOmicsBridge
 	url = https://github.com/BiocStaging/MultiOmicsBridge
@@ -53,6 +56,9 @@
 [submodule "bHIVE"]
 	path = bHIVE
 	url = https://github.com/BiocStaging/bHIVE
+[submodule "consensusTADs"]
+	path = consensusTADs
+	url = https://github.com/BiocStaging/consensusTADs
 [submodule "dbSequence"]
 	path = dbSequence
 	url = https://github.com/BiocStaging/dbSequence
