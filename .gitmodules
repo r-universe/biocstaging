@@ -119,3 +119,6 @@
 [submodule "spbtest5"]
 	path = spbtest5
 	url = https://github.com/Bioconductor/spbtest5
+[submodule "woven"]
+	path = woven
+	url = https://github.com/BiocStaging/woven
