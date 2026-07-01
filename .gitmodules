@@ -44,6 +44,9 @@
 [submodule "PACMOSData"]
 	path = PACMOSData
 	url = https://github.com/BiocStaging/PACMOSData
+[submodule "PTMsToPathwaysData"]
+	path = PTMsToPathwaysData
+	url = https://github.com/BiocStaging/PTMsToPathwaysData
 [submodule "PlantTxDbHub"]
 	path = PlantTxDbHub
 	url = https://github.com/BiocStaging/PlantTxDbHub
