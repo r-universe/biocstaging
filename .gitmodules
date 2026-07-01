@@ -104,6 +104,9 @@
 [submodule "sbivar"]
 	path = sbivar
 	url = https://github.com/BiocStaging/sbivar
+[submodule "scCertify"]
+	path = scCertify
+	url = https://github.com/BiocStaging/scCertify
 [submodule "scCompoundDE"]
 	path = scCompoundDE
 	url = https://github.com/BiocStaging/scCompoundDE
