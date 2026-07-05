@@ -17,6 +17,9 @@
 [submodule "GPlinksR"]
 	path = GPlinksR
 	url = https://github.com/BiocStaging/GPlinksR
+[submodule "GSE142512"]
+	path = GSE142512
+	url = https://github.com/BiocStaging/GSE142512
 [submodule "GSE280465"]
 	path = GSE280465
 	url = https://github.com/BiocStaging/GSE280465
