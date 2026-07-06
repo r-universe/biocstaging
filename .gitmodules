@@ -71,9 +71,6 @@
 [submodule "consensusTADs"]
 	path = consensusTADs
 	url = https://github.com/BiocStaging/consensusTADs
-[submodule "dbSequence"]
-	path = dbSequence
-	url = https://github.com/BiocStaging/dbSequence
 [submodule "epiwraps"]
 	path = epiwraps
 	url = https://github.com/BiocStaging/epiwraps
