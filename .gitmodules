@@ -74,6 +74,12 @@
 [submodule "epiwraps"]
 	path = epiwraps
 	url = https://github.com/BiocStaging/epiwraps
+[submodule "faissR"]
+	path = faissR
+	url = https://github.com/BiocStaging/faissR
+[submodule "fastPLS"]
+	path = fastPLS
+	url = https://github.com/BiocStaging/fastPLS
 [submodule "gdscloud"]
 	path = gdscloud
 	url = https://github.com/BiocStaging/gdscloud
