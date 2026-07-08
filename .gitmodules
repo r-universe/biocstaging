@@ -44,9 +44,6 @@
 [submodule "MsStash"]
 	path = MsStash
 	url = https://github.com/BiocStaging/MsStash
-[submodule "MultiOmicsBridge"]
-	path = MultiOmicsBridge
-	url = https://github.com/BiocStaging/MultiOmicsBridge
 [submodule "PACMOSData"]
 	path = PACMOSData
 	url = https://github.com/BiocStaging/PACMOSData
