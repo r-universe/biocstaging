@@ -119,6 +119,9 @@
 [submodule "scCertify"]
 	path = scCertify
 	url = https://github.com/BiocStaging/scCertify
+[submodule "scMAGeCK"]
+	path = scMAGeCK
+	url = https://github.com/BiocStaging/scMAGeCK
 [submodule "scOverlay"]
 	path = scOverlay
 	url = https://github.com/BiocStaging/scOverlay
