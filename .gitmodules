@@ -125,6 +125,9 @@
 [submodule "sciNOME"]
 	path = sciNOME
 	url = https://github.com/BiocStaging/sciNOME
+[submodule "selexprepR"]
+	path = selexprepR
+	url = https://github.com/BiocStaging/selexprepR
 [submodule "spatialdataR"]
 	path = spatialdataR
 	url = https://github.com/BiocStaging/spatialdataR
