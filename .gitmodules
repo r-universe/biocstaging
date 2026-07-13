@@ -62,6 +62,9 @@
 [submodule "bHIVE"]
 	path = bHIVE
 	url = https://github.com/BiocStaging/bHIVE
+[submodule "cellpaintr"]
+	path = cellpaintr
+	url = https://github.com/BiocStaging/cellpaintr
 [submodule "consensusTADs"]
 	path = consensusTADs
 	url = https://github.com/BiocStaging/consensusTADs
