@@ -95,9 +95,6 @@
 [submodule "multipointR"]
 	path = multipointR
 	url = https://github.com/BiocStaging/multipointR
-[submodule "ontoProc2"]
-	path = ontoProc2
-	url = https://github.com/BiocStaging/ontoProc2
 [submodule "pepitope"]
 	path = pepitope
 	url = https://github.com/BiocStaging/pepitope
