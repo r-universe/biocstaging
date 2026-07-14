@@ -41,6 +41,9 @@
 [submodule "MsBackendMetabolomicsWorkbench"]
 	path = MsBackendMetabolomicsWorkbench
 	url = https://github.com/BiocStaging/MsBackendMetabolomicsWorkbench
+[submodule "OmicsLake"]
+	path = OmicsLake
+	url = https://github.com/BiocStaging/OmicsLake
 [submodule "PACMOSData"]
 	path = PACMOSData
 	url = https://github.com/BiocStaging/PACMOSData
