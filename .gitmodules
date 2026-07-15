@@ -104,6 +104,9 @@
 [submodule "multipointR"]
 	path = multipointR
 	url = https://github.com/BiocStaging/multipointR
+[submodule "pepVet"]
+	path = pepVet
+	url = https://github.com/BiocStaging/pepVet
 [submodule "pepitope"]
 	path = pepitope
 	url = https://github.com/BiocStaging/pepitope
