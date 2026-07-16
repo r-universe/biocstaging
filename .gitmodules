@@ -5,6 +5,9 @@
 [submodule "CMEnt"]
 	path = CMEnt
 	url = https://github.com/BiocStaging/CMEnt
+[submodule "ClinicalVariantR"]
+	path = ClinicalVariantR
+	url = https://github.com/BiocStaging/ClinicalVariantR
 [submodule "CySA"]
 	path = CySA
 	url = https://github.com/BiocStaging/CySA
@@ -101,6 +104,9 @@
 [submodule "loopcityData"]
 	path = loopcityData
 	url = https://github.com/BiocStaging/loopcityData
+[submodule "multipletR"]
+	path = multipletR
+	url = https://github.com/BiocStaging/multipletR
 [submodule "multipointR"]
 	path = multipointR
 	url = https://github.com/BiocStaging/multipointR
