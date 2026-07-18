@@ -35,9 +35,6 @@
 [submodule "MetaPathNet"]
 	path = MetaPathNet
 	url = https://github.com/BiocStaging/MetaPathNet
-[submodule "MsBackendMassIVE"]
-	path = MsBackendMassIVE
-	url = https://github.com/BiocStaging/MsBackendMassIVE
 [submodule "MsBackendMetabolomicsWorkbench"]
 	path = MsBackendMetabolomicsWorkbench
 	url = https://github.com/BiocStaging/MsBackendMetabolomicsWorkbench
