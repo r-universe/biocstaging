@@ -98,6 +98,9 @@
 [submodule "loopcityData"]
 	path = loopcityData
 	url = https://github.com/BiocStaging/loopcityData
+[submodule "mdclust"]
+	path = mdclust
+	url = https://github.com/BiocStaging/mdclust
 [submodule "multipletR"]
 	path = multipletR
 	url = https://github.com/BiocStaging/multipletR
