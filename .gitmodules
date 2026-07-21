@@ -53,6 +53,9 @@
 [submodule "QuickBLAST"]
 	path = QuickBLAST
 	url = https://github.com/BiocStaging/QuickBLAST
+[submodule "SPAROscore"]
+	path = SPAROscore
+	url = https://github.com/BiocStaging/SPAROscore
 [submodule "SimiCviz"]
 	path = SimiCviz
 	url = https://github.com/BiocStaging/SimiCviz
