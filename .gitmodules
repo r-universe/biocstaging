@@ -11,6 +11,9 @@
 [submodule "CySA"]
 	path = CySA
 	url = https://github.com/BiocStaging/CySA
+[submodule "DgeaHeatmap"]
+	path = DgeaHeatmap
+	url = https://github.com/BiocStaging/DgeaHeatmap
 [submodule "GO.ddb"]
 	path = GO.ddb
 	url = https://github.com/BiocStaging/GO.ddb
