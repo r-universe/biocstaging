@@ -50,6 +50,9 @@
 [submodule "MOTL"]
 	path = MOTL
 	url = https://github.com/BiocStaging/MOTL
+[submodule "MRManalyzeR"]
+	path = MRManalyzeR
+	url = https://github.com/BiocStaging/MRManalyzeR
 [submodule "MetaPathNet"]
 	path = MetaPathNet
 	url = https://github.com/BiocStaging/MetaPathNet
