@@ -80,6 +80,9 @@
 [submodule "SimiCviz"]
 	path = SimiCviz
 	url = https://github.com/BiocStaging/SimiCviz
+[submodule "SpectraStash"]
+	path = SpectraStash
+	url = https://github.com/BiocStaging/SpectraStash
 [submodule "TiDEomics"]
 	path = TiDEomics
 	url = https://github.com/BiocStaging/TiDEomics
