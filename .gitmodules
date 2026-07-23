@@ -152,6 +152,9 @@
 [submodule "polyICSFlow"]
 	path = polyICSFlow
 	url = https://github.com/BiocStaging/polyICSFlow
+[submodule "quantMSImageR"]
+	path = quantMSImageR
+	url = https://github.com/BiocStaging/quantMSImageR
 [submodule "reglScatterplotR"]
 	path = reglScatterplotR
 	url = https://github.com/BiocStaging/reglScatterplotR
