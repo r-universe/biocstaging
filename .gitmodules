@@ -116,6 +116,9 @@
 [submodule "geneslator"]
 	path = geneslator
 	url = https://github.com/BiocStaging/geneslator
+[submodule "ggwas"]
+	path = ggwas
+	url = https://github.com/BiocStaging/ggwas
 [submodule "grayleafspotr"]
 	path = grayleafspotr
 	url = https://github.com/BiocStaging/grayleafspotr
@@ -131,6 +134,9 @@
 [submodule "mdclust"]
 	path = mdclust
 	url = https://github.com/BiocStaging/mdclust
+[submodule "mesa"]
+	path = mesa
+	url = https://github.com/BiocStaging/mesa
 [submodule "multipletR"]
 	path = multipletR
 	url = https://github.com/BiocStaging/multipletR
