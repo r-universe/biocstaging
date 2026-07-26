@@ -11,6 +11,9 @@
 [submodule "ClinicalVariantR"]
 	path = ClinicalVariantR
 	url = https://github.com/BiocStaging/ClinicalVariantR
+[submodule "CyFj11"]
+	path = CyFj11
+	url = https://github.com/BiocStaging/CyFj11
 [submodule "CySA"]
 	path = CySA
 	url = https://github.com/BiocStaging/CySA
