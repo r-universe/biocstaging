@@ -5,6 +5,9 @@
 [submodule "BiocDuckDB"]
 	path = BiocDuckDB
 	url = https://github.com/BiocStaging/BiocDuckDB
+[submodule "BreedingExperiment"]
+	path = BreedingExperiment
+	url = https://github.com/BiocStaging/BreedingExperiment
 [submodule "CMEnt"]
 	path = CMEnt
 	url = https://github.com/BiocStaging/CMEnt
@@ -89,9 +92,6 @@
 [submodule "SpectraStash"]
 	path = SpectraStash
 	url = https://github.com/BiocStaging/SpectraStash
-[submodule "TiDEomics"]
-	path = TiDEomics
-	url = https://github.com/BiocStaging/TiDEomics
 [submodule "TxParq.Hs.gencode.v49"]
 	path = TxParq.Hs.gencode.v49
 	url = https://github.com/BiocStaging/TxParq.Hs.gencode.v49
