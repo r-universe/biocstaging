@@ -80,6 +80,9 @@
 [submodule "PlantTxDbHub"]
 	path = PlantTxDbHub
 	url = https://github.com/BiocStaging/PlantTxDbHub
+[submodule "QFeaturesGUI"]
+	path = QFeaturesGUI
+	url = https://github.com/BiocStaging/QFeaturesGUI
 [submodule "QuickBLAST"]
 	path = QuickBLAST
 	url = https://github.com/BiocStaging/QuickBLAST
