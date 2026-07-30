@@ -149,6 +149,9 @@
 [submodule "multipointR"]
 	path = multipointR
 	url = https://github.com/BiocStaging/multipointR
+[submodule "normScore"]
+	path = normScore
+	url = https://github.com/BiocStaging/normScore
 [submodule "pepVet"]
 	path = pepVet
 	url = https://github.com/BiocStaging/pepVet
