@@ -41,6 +41,9 @@
 [submodule "GSE142512"]
 	path = GSE142512
 	url = https://github.com/BiocStaging/GSE142512
+[submodule "GeneSCARAB"]
+	path = GeneSCARAB
+	url = https://github.com/BiocStaging/GeneSCARAB
 [submodule "IntegratedLearner"]
 	path = IntegratedLearner
 	url = https://github.com/BiocStaging/IntegratedLearner
