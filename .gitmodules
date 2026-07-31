@@ -41,9 +41,6 @@
 [submodule "GSE142512"]
 	path = GSE142512
 	url = https://github.com/BiocStaging/GSE142512
-[submodule "GSE280465"]
-	path = GSE280465
-	url = https://github.com/BiocStaging/GSE280465
 [submodule "IntegratedLearner"]
 	path = IntegratedLearner
 	url = https://github.com/BiocStaging/IntegratedLearner
@@ -77,6 +74,9 @@
 [submodule "QuickBLAST"]
 	path = QuickBLAST
 	url = https://github.com/BiocStaging/QuickBLAST
+[submodule "RmzTabM"]
+	path = RmzTabM
+	url = https://github.com/BiocStaging/RmzTabM
 [submodule "SPAROscore"]
 	path = SPAROscore
 	url = https://github.com/BiocStaging/SPAROscore
@@ -98,6 +98,9 @@
 [submodule "consensusTADs"]
 	path = consensusTADs
 	url = https://github.com/BiocStaging/consensusTADs
+[submodule "drugannotR"]
+	path = drugannotR
+	url = https://github.com/BiocStaging/drugannotR
 [submodule "epiwraps"]
 	path = epiwraps
 	url = https://github.com/BiocStaging/epiwraps
