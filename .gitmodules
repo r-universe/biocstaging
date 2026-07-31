@@ -56,12 +56,6 @@
 [submodule "MRManalyzeR"]
 	path = MRManalyzeR
 	url = https://github.com/BiocStaging/MRManalyzeR
-[submodule "MetaPathNet"]
-	path = MetaPathNet
-	url = https://github.com/BiocStaging/MetaPathNet
-[submodule "MsBackendMetabolomicsWorkbench"]
-	path = MsBackendMetabolomicsWorkbench
-	url = https://github.com/BiocStaging/MsBackendMetabolomicsWorkbench
 [submodule "MultiAssaySpatialExperiment"]
 	path = MultiAssaySpatialExperiment
 	url = https://github.com/BiocStaging/MultiAssaySpatialExperiment
@@ -119,9 +113,6 @@
 [submodule "gdscloud"]
 	path = gdscloud
 	url = https://github.com/BiocStaging/gdscloud
-[submodule "geneslator"]
-	path = geneslator
-	url = https://github.com/BiocStaging/geneslator
 [submodule "ggwas"]
 	path = ggwas
 	url = https://github.com/BiocStaging/ggwas
@@ -146,9 +137,6 @@
 [submodule "multipletR"]
 	path = multipletR
 	url = https://github.com/BiocStaging/multipletR
-[submodule "multipointR"]
-	path = multipointR
-	url = https://github.com/BiocStaging/multipointR
 [submodule "normScore"]
 	path = normScore
 	url = https://github.com/BiocStaging/normScore
