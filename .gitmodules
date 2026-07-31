@@ -56,6 +56,9 @@
 [submodule "MRManalyzeR"]
 	path = MRManalyzeR
 	url = https://github.com/BiocStaging/MRManalyzeR
+[submodule "MagellanNTK"]
+	path = MagellanNTK
+	url = https://github.com/BiocStaging/MagellanNTK
 [submodule "MultiAssaySpatialExperiment"]
 	path = MultiAssaySpatialExperiment
 	url = https://github.com/BiocStaging/MultiAssaySpatialExperiment
