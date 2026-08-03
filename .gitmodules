@@ -80,9 +80,6 @@
 [submodule "QuickBLAST"]
 	path = QuickBLAST
 	url = https://github.com/BiocStaging/QuickBLAST
-[submodule "RmzTabM"]
-	path = RmzTabM
-	url = https://github.com/BiocStaging/RmzTabM
 [submodule "SPAROscore"]
 	path = SPAROscore
 	url = https://github.com/BiocStaging/SPAROscore
