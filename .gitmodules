@@ -86,12 +86,12 @@
 [submodule "SPAROscore"]
 	path = SPAROscore
 	url = https://github.com/BiocStaging/SPAROscore
-[submodule "SimiCviz"]
-	path = SimiCviz
-	url = https://github.com/BiocStaging/SimiCviz
 [submodule "SpectraStash"]
 	path = SpectraStash
 	url = https://github.com/BiocStaging/SpectraStash
+[submodule "SwitchClass"]
+	path = SwitchClass
+	url = https://github.com/BiocStaging/SwitchClass
 [submodule "TxParq.Hs.gencode.v49"]
 	path = TxParq.Hs.gencode.v49
 	url = https://github.com/BiocStaging/TxParq.Hs.gencode.v49
