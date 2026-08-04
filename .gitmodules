@@ -50,6 +50,9 @@
 [submodule "LIPIDIFy"]
 	path = LIPIDIFy
 	url = https://github.com/BiocStaging/LIPIDIFy
+[submodule "LongOmicsTraj"]
+	path = LongOmicsTraj
+	url = https://github.com/BiocStaging/LongOmicsTraj
 [submodule "MOTL"]
 	path = MOTL
 	url = https://github.com/BiocStaging/MOTL
