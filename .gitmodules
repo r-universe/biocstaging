@@ -119,6 +119,9 @@
 [submodule "fastPLS"]
 	path = fastPLS
 	url = https://github.com/BiocStaging/fastPLS
+[submodule "gDRplots"]
+	path = gDRplots
+	url = https://github.com/BiocStaging/gDRplots
 [submodule "gdscloud"]
 	path = gdscloud
 	url = https://github.com/BiocStaging/gdscloud
