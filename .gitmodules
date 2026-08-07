@@ -158,6 +158,12 @@
 [submodule "pepitope"]
 	path = pepitope
 	url = https://github.com/BiocStaging/pepitope
+[submodule "perturbMatch"]
+	path = perturbMatch
+	url = https://github.com/BiocStaging/perturbMatch
+[submodule "perturbMatchData"]
+	path = perturbMatchData
+	url = https://github.com/BiocStaging/perturbMatchData
 [submodule "polyICSFlow"]
 	path = polyICSFlow
 	url = https://github.com/BiocStaging/polyICSFlow
