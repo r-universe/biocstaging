@@ -125,6 +125,9 @@
 [submodule "gdscloud"]
 	path = gdscloud
 	url = https://github.com/BiocStaging/gdscloud
+[submodule "geneClusterPattern"]
+	path = geneClusterPattern
+	url = https://github.com/BiocStaging/geneClusterPattern
 [submodule "ggwas"]
 	path = ggwas
 	url = https://github.com/BiocStaging/ggwas
