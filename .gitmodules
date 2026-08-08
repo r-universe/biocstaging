@@ -95,6 +95,9 @@
 [submodule "SwitchClass"]
 	path = SwitchClass
 	url = https://github.com/BiocStaging/SwitchClass
+[submodule "TxDb.Osativa.MSU.RGAP7"]
+	path = TxDb.Osativa.MSU.RGAP7
+	url = https://github.com/BiocStaging/TxDb.Osativa.MSU.RGAP7
 [submodule "TxParq.Hs.gencode.v49"]
 	path = TxParq.Hs.gencode.v49
 	url = https://github.com/BiocStaging/TxParq.Hs.gencode.v49
