@@ -29,9 +29,6 @@
 [submodule "DuckDBArray"]
 	path = DuckDBArray
 	url = https://github.com/BiocStaging/DuckDBArray
-[submodule "DuckDBDataFrame"]
-	path = DuckDBDataFrame
-	url = https://github.com/BiocStaging/DuckDBDataFrame
 [submodule "DuckDBGRanges"]
 	path = DuckDBGRanges
 	url = https://github.com/BiocStaging/DuckDBGRanges
