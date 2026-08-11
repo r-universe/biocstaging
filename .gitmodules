@@ -32,6 +32,9 @@
 [submodule "DuckDBSpatial"]
 	path = DuckDBSpatial
 	url = https://github.com/BiocStaging/DuckDBSpatial
+[submodule "ECLIPSE"]
+	path = ECLIPSE
+	url = https://github.com/BiocStaging/ECLIPSE
 [submodule "GENCODEHub"]
 	path = GENCODEHub
 	url = https://github.com/BiocStaging/GENCODEHub
