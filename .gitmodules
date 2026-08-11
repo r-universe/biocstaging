@@ -104,6 +104,9 @@
 [submodule "bHIVE"]
 	path = bHIVE
 	url = https://github.com/BiocStaging/bHIVE
+[submodule "cellchatr"]
+	path = cellchatr
+	url = https://github.com/BiocStaging/cellchatr
 [submodule "cellpaintr"]
 	path = cellpaintr
 	url = https://github.com/BiocStaging/cellpaintr
