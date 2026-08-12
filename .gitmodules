@@ -155,6 +155,9 @@
 [submodule "grayleafspotr"]
 	path = grayleafspotr
 	url = https://github.com/BiocStaging/grayleafspotr
+[submodule "hmagmaR"]
+	path = hmagmaR
+	url = https://github.com/BiocStaging/hmagmaR
 [submodule "inferRecom"]
 	path = inferRecom
 	url = https://github.com/BiocStaging/inferRecom
