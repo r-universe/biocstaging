@@ -50,6 +50,9 @@
 [submodule "IntegratedLearner"]
 	path = IntegratedLearner
 	url = https://github.com/BiocStaging/IntegratedLearner
+[submodule "KODAMA"]
+	path = KODAMA
+	url = https://github.com/BiocStaging/KODAMA
 [submodule "LIPIDIFy"]
 	path = LIPIDIFy
 	url = https://github.com/BiocStaging/LIPIDIFy
@@ -131,6 +134,9 @@
 [submodule "faissR"]
 	path = faissR
 	url = https://github.com/BiocStaging/faissR
+[submodule "fastEmbedR"]
+	path = fastEmbedR
+	url = https://github.com/BiocStaging/fastEmbedR
 [submodule "fastPLS"]
 	path = fastPLS
 	url = https://github.com/BiocStaging/fastPLS
