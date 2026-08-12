@@ -158,6 +158,9 @@
 [submodule "hmagmaR"]
 	path = hmagmaR
 	url = https://github.com/BiocStaging/hmagmaR
+[submodule "iconic"]
+	path = iconic
+	url = https://github.com/BiocStaging/iconic
 [submodule "inferRecom"]
 	path = inferRecom
 	url = https://github.com/BiocStaging/inferRecom
