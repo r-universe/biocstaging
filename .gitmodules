@@ -119,6 +119,9 @@
 [submodule "cellpaintr"]
 	path = cellpaintr
 	url = https://github.com/BiocStaging/cellpaintr
+[submodule "circaTime"]
+	path = circaTime
+	url = https://github.com/BiocStaging/circaTime
 [submodule "consensusTADs"]
 	path = consensusTADs
 	url = https://github.com/BiocStaging/consensusTADs
