@@ -17,6 +17,9 @@
 [submodule "ClinicalVariantR"]
 	path = ClinicalVariantR
 	url = https://github.com/BiocStaging/ClinicalVariantR
+[submodule "CorNetto"]
+	path = CorNetto
+	url = https://github.com/BiocStaging/CorNetto
 [submodule "CyFj11"]
 	path = CyFj11
 	url = https://github.com/BiocStaging/CyFj11
@@ -68,6 +71,9 @@
 [submodule "MagellanNTK"]
 	path = MagellanNTK
 	url = https://github.com/BiocStaging/MagellanNTK
+[submodule "MiCARA"]
+	path = MiCARA
+	url = https://github.com/BiocStaging/MiCARA
 [submodule "MultiAssaySpatialExperiment"]
 	path = MultiAssaySpatialExperiment
 	url = https://github.com/BiocStaging/MultiAssaySpatialExperiment
