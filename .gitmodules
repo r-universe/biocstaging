@@ -110,6 +110,9 @@
 [submodule "SwitchClass"]
 	path = SwitchClass
 	url = https://github.com/BiocStaging/SwitchClass
+[submodule "TxDb.Athaliana.Ensembl.TAIR10"]
+	path = TxDb.Athaliana.Ensembl.TAIR10
+	url = https://github.com/BiocStaging/TxDb.Athaliana.Ensembl.TAIR10
 [submodule "TxDb.Osativa.MSU.RGAP7"]
 	path = TxDb.Osativa.MSU.RGAP7
 	url = https://github.com/BiocStaging/TxDb.Osativa.MSU.RGAP7
