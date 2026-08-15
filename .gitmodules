@@ -221,6 +221,9 @@
 [submodule "reglScatterplotR"]
 	path = reglScatterplotR
 	url = https://github.com/BiocStaging/reglScatterplotR
+[submodule "remart"]
+	path = remart
+	url = https://github.com/BiocStaging/remart
 [submodule "rvarsim"]
 	path = rvarsim
 	url = https://github.com/BiocStaging/rvarsim
