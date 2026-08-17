@@ -29,9 +29,6 @@
 [submodule "DgeaHeatmap"]
 	path = DgeaHeatmap
 	url = https://github.com/BiocStaging/DgeaHeatmap
-[submodule "DuckDBArray"]
-	path = DuckDBArray
-	url = https://github.com/BiocStaging/DuckDBArray
 [submodule "DuckDBSpatial"]
 	path = DuckDBSpatial
 	url = https://github.com/BiocStaging/DuckDBSpatial
