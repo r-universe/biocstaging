@@ -29,9 +29,6 @@
 [submodule "DgeaHeatmap"]
 	path = DgeaHeatmap
 	url = https://github.com/BiocStaging/DgeaHeatmap
-[submodule "DuckDBSpatial"]
-	path = DuckDBSpatial
-	url = https://github.com/BiocStaging/DuckDBSpatial
 [submodule "ECLIPSE"]
 	path = ECLIPSE
 	url = https://github.com/BiocStaging/ECLIPSE
@@ -143,9 +140,6 @@
 [submodule "epiwraps"]
 	path = epiwraps
 	url = https://github.com/BiocStaging/epiwraps
-[submodule "exploreSE"]
-	path = exploreSE
-	url = https://github.com/BiocStaging/exploreSE
 [submodule "faissR"]
 	path = faissR
 	url = https://github.com/BiocStaging/faissR
