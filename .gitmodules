@@ -194,6 +194,9 @@
 [submodule "mesa"]
 	path = mesa
 	url = https://github.com/BiocStaging/mesa
+[submodule "methylTFR"]
+	path = methylTFR
+	url = https://github.com/BiocStaging/methylTFR
 [submodule "multipletR"]
 	path = multipletR
 	url = https://github.com/BiocStaging/multipletR
