@@ -197,6 +197,12 @@
 [submodule "methylTFR"]
 	path = methylTFR
 	url = https://github.com/BiocStaging/methylTFR
+[submodule "methylTFRAnnotationHg38"]
+	path = methylTFRAnnotationHg38
+	url = https://github.com/BiocStaging/methylTFRAnnotationHg38
+[submodule "methylTFRAnnotationMm10"]
+	path = methylTFRAnnotationMm10
+	url = https://github.com/BiocStaging/methylTFRAnnotationMm10
 [submodule "multipletR"]
 	path = multipletR
 	url = https://github.com/BiocStaging/multipletR
