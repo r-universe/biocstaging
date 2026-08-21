@@ -98,6 +98,9 @@
 [submodule "SPAROscore"]
 	path = SPAROscore
 	url = https://github.com/BiocStaging/SPAROscore
+[submodule "SpaMTP"]
+	path = SpaMTP
+	url = https://github.com/BiocStaging/SpaMTP
 [submodule "SpaMTPData"]
 	path = SpaMTPData
 	url = https://github.com/BiocStaging/SpaMTPData
