@@ -101,6 +101,9 @@
 [submodule "SpaMTPData"]
 	path = SpaMTPData
 	url = https://github.com/BiocStaging/SpaMTPData
+[submodule "SpaMTPdb"]
+	path = SpaMTPdb
+	url = https://github.com/BiocStaging/SpaMTPdb
 [submodule "SpectraStash"]
 	path = SpectraStash
 	url = https://github.com/BiocStaging/SpectraStash
