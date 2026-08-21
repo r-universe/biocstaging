@@ -95,6 +95,9 @@
 [submodule "QuickBLAST"]
 	path = QuickBLAST
 	url = https://github.com/BiocStaging/QuickBLAST
+[submodule "RhyME"]
+	path = RhyME
+	url = https://github.com/BiocStaging/RhyME
 [submodule "SPAROscore"]
 	path = SPAROscore
 	url = https://github.com/BiocStaging/SPAROscore
