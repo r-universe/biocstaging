@@ -47,6 +47,9 @@
 [submodule "GeneSCARAB"]
 	path = GeneSCARAB
 	url = https://github.com/BiocStaging/GeneSCARAB
+[submodule "HuMMANet"]
+	path = HuMMANet
+	url = https://github.com/BiocStaging/HuMMANet
 [submodule "IntegratedLearner"]
 	path = IntegratedLearner
 	url = https://github.com/BiocStaging/IntegratedLearner
