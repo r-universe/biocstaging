@@ -254,6 +254,9 @@
 [submodule "selexprepR"]
 	path = selexprepR
 	url = https://github.com/BiocStaging/selexprepR
+[submodule "spatialDESeq"]
+	path = spatialDESeq
+	url = https://github.com/BiocStaging/spatialDESeq
 [submodule "spatialdataR"]
 	path = spatialdataR
 	url = https://github.com/BiocStaging/spatialdataR
