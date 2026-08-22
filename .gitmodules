@@ -149,6 +149,9 @@
 [submodule "consensusTADs"]
 	path = consensusTADs
 	url = https://github.com/BiocStaging/consensusTADs
+[submodule "dmsa"]
+	path = dmsa
+	url = https://github.com/BiocStaging/dmsa
 [submodule "drugannotR"]
 	path = drugannotR
 	url = https://github.com/BiocStaging/drugannotR
