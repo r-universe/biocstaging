@@ -119,6 +119,9 @@
 [submodule "SwitchClass"]
 	path = SwitchClass
 	url = https://github.com/BiocStaging/SwitchClass
+[submodule "TweedSpot"]
+	path = TweedSpot
+	url = https://github.com/BiocStaging/TweedSpot
 [submodule "TxDb.Athaliana.Ensembl.TAIR10"]
 	path = TxDb.Athaliana.Ensembl.TAIR10
 	url = https://github.com/BiocStaging/TxDb.Athaliana.Ensembl.TAIR10
