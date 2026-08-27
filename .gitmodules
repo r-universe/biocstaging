@@ -248,6 +248,9 @@
 [submodule "rvarsim"]
 	path = rvarsim
 	url = https://github.com/BiocStaging/rvarsim
+[submodule "saintexpress"]
+	path = saintexpress
+	url = https://github.com/BiocStaging/saintexpress
 [submodule "sbivar"]
 	path = sbivar
 	url = https://github.com/BiocStaging/sbivar
