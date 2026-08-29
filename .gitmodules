@@ -23,9 +23,6 @@
 [submodule "CyFj11"]
 	path = CyFj11
 	url = https://github.com/BiocStaging/CyFj11
-[submodule "CySA"]
-	path = CySA
-	url = https://github.com/BiocStaging/CySA
 [submodule "DEP"]
 	path = DEP
 	url = https://github.com/BiocStaging/DEP
@@ -101,6 +98,9 @@
 [submodule "QuickBLAST"]
 	path = QuickBLAST
 	url = https://github.com/BiocStaging/QuickBLAST
+[submodule "RAMEN"]
+	path = RAMEN
+	url = https://github.com/BiocStaging/RAMEN
 [submodule "RhyME"]
 	path = RhyME
 	url = https://github.com/BiocStaging/RhyME
@@ -155,6 +155,12 @@
 [submodule "consensusTADs"]
 	path = consensusTADs
 	url = https://github.com/BiocStaging/consensusTADs
+[submodule "cpgdirection"]
+	path = cpgdirection
+	url = https://github.com/BiocStaging/cpgdirection
+[submodule "cpgdirectionData"]
+	path = cpgdirectionData
+	url = https://github.com/BiocStaging/cpgdirectionData
 [submodule "dmsa"]
 	path = dmsa
 	url = https://github.com/BiocStaging/dmsa
