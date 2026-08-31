@@ -74,9 +74,6 @@
 [submodule "MiCARA"]
 	path = MiCARA
 	url = https://github.com/BiocStaging/MiCARA
-[submodule "MultiAssaySpatialExperiment"]
-	path = MultiAssaySpatialExperiment
-	url = https://github.com/BiocStaging/MultiAssaySpatialExperiment
 [submodule "OmicsLake"]
 	path = OmicsLake
 	url = https://github.com/BiocStaging/OmicsLake
@@ -230,9 +227,6 @@
 [submodule "normScore"]
 	path = normScore
 	url = https://github.com/BiocStaging/normScore
-[submodule "pepVet"]
-	path = pepVet
-	url = https://github.com/BiocStaging/pepVet
 [submodule "pepitope"]
 	path = pepitope
 	url = https://github.com/BiocStaging/pepitope
@@ -275,6 +269,9 @@
 [submodule "scOverlay"]
 	path = scOverlay
 	url = https://github.com/BiocStaging/scOverlay
+[submodule "sceptre"]
+	path = sceptre
+	url = https://github.com/BiocStaging/sceptre
 [submodule "sciNOME"]
 	path = sciNOME
 	url = https://github.com/BiocStaging/sciNOME
