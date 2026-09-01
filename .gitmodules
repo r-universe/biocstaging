@@ -47,6 +47,9 @@
 [submodule "GeneSCARAB"]
 	path = GeneSCARAB
 	url = https://github.com/BiocStaging/GeneSCARAB
+[submodule "GeneTrackR"]
+	path = GeneTrackR
+	url = https://github.com/BiocStaging/GeneTrackR
 [submodule "HuMMANet"]
 	path = HuMMANet
 	url = https://github.com/BiocStaging/HuMMANet
