@@ -167,6 +167,9 @@
 [submodule "drugannotR"]
 	path = drugannotR
 	url = https://github.com/BiocStaging/drugannotR
+[submodule "epiPortrait"]
+	path = epiPortrait
+	url = https://github.com/BiocStaging/epiPortrait
 [submodule "epiwraps"]
 	path = epiwraps
 	url = https://github.com/BiocStaging/epiwraps
