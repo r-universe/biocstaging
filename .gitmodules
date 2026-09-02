@@ -263,6 +263,9 @@
 [submodule "saintexpress"]
 	path = saintexpress
 	url = https://github.com/BiocStaging/saintexpress
+[submodule "savingBiocObjects"]
+	path = savingBiocObjects
+	url = https://github.com/BiocStaging/savingBiocObjects
 [submodule "sbivar"]
 	path = sbivar
 	url = https://github.com/BiocStaging/sbivar
