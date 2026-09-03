@@ -14,6 +14,9 @@
 [submodule "CMEnt"]
 	path = CMEnt
 	url = https://github.com/BiocStaging/CMEnt
+[submodule "CanvasXpressBio"]
+	path = CanvasXpressBio
+	url = https://github.com/BiocStaging/CanvasXpressBio
 [submodule "ClinicalVariantR"]
 	path = ClinicalVariantR
 	url = https://github.com/BiocStaging/ClinicalVariantR
