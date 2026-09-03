@@ -299,6 +299,9 @@
 [submodule "spbtest5"]
 	path = spbtest5
 	url = https://github.com/Bioconductor/spbtest5
+[submodule "strainspy"]
+	path = strainspy
+	url = https://github.com/BiocStaging/strainspy
 [submodule "tTEscanR"]
 	path = tTEscanR
 	url = https://github.com/BiocStaging/tTEscanR
