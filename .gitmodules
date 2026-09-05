@@ -59,6 +59,9 @@
 [submodule "IntegratedLearner"]
 	path = IntegratedLearner
 	url = https://github.com/BiocStaging/IntegratedLearner
+[submodule "IntrinsicScan"]
+	path = IntrinsicScan
+	url = https://github.com/BiocStaging/IntrinsicScan
 [submodule "KODAMA"]
 	path = KODAMA
 	url = https://github.com/BiocStaging/KODAMA
