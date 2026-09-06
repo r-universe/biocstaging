@@ -239,6 +239,9 @@
 [submodule "normScore"]
 	path = normScore
 	url = https://github.com/BiocStaging/normScore
+[submodule "path2path"]
+	path = path2path
+	url = https://github.com/BiocStaging/path2path
 [submodule "pepitope"]
 	path = pepitope
 	url = https://github.com/BiocStaging/pepitope
@@ -248,9 +251,6 @@
 [submodule "perturbMatchData"]
 	path = perturbMatchData
 	url = https://github.com/BiocStaging/perturbMatchData
-[submodule "polyICSFlow"]
-	path = polyICSFlow
-	url = https://github.com/BiocStaging/polyICSFlow
 [submodule "prolfqua"]
 	path = prolfqua
 	url = https://github.com/BiocStaging/prolfqua
