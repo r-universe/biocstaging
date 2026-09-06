@@ -125,9 +125,6 @@
 [submodule "SpaMTPdb"]
 	path = SpaMTPdb
 	url = https://github.com/BiocStaging/SpaMTPdb
-[submodule "SpectraStash"]
-	path = SpectraStash
-	url = https://github.com/BiocStaging/SpectraStash
 [submodule "SwitchClass"]
 	path = SwitchClass
 	url = https://github.com/BiocStaging/SwitchClass
