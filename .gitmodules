@@ -236,9 +236,6 @@
 [submodule "multipletR"]
 	path = multipletR
 	url = https://github.com/BiocStaging/multipletR
-[submodule "normScore"]
-	path = normScore
-	url = https://github.com/BiocStaging/normScore
 [submodule "path2path"]
 	path = path2path
 	url = https://github.com/BiocStaging/path2path
@@ -275,9 +272,6 @@
 [submodule "sbivar"]
 	path = sbivar
 	url = https://github.com/BiocStaging/sbivar
-[submodule "scCertify"]
-	path = scCertify
-	url = https://github.com/BiocStaging/scCertify
 [submodule "scMAGeCK"]
 	path = scMAGeCK
 	url = https://github.com/BiocStaging/scMAGeCK
