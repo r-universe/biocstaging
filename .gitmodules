@@ -5,9 +5,6 @@
 [submodule "BatchVaria"]
 	path = BatchVaria
 	url = https://github.com/BiocStaging/BatchVaria
-[submodule "BiocDuckDB"]
-	path = BiocDuckDB
-	url = https://github.com/BiocStaging/BiocDuckDB
 [submodule "BreedingExperiment"]
 	path = BreedingExperiment
 	url = https://github.com/BiocStaging/BreedingExperiment
