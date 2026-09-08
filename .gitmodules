@@ -272,6 +272,9 @@
 [submodule "sbivar"]
 	path = sbivar
 	url = https://github.com/BiocStaging/sbivar
+[submodule "scGenePanel"]
+	path = scGenePanel
+	url = https://github.com/BiocStaging/scGenePanel
 [submodule "scMAGeCK"]
 	path = scMAGeCK
 	url = https://github.com/BiocStaging/scMAGeCK
