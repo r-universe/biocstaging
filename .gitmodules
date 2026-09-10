@@ -50,6 +50,9 @@
 [submodule "GeneTrackR"]
 	path = GeneTrackR
 	url = https://github.com/BiocStaging/GeneTrackR
+[submodule "GenomicDataStream"]
+	path = GenomicDataStream
+	url = https://github.com/BiocStaging/GenomicDataStream
 [submodule "HuMMANet"]
 	path = HuMMANet
 	url = https://github.com/BiocStaging/HuMMANet
