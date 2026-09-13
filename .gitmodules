@@ -8,6 +8,9 @@
 [submodule "BreedingExperiment"]
 	path = BreedingExperiment
 	url = https://github.com/BiocStaging/BreedingExperiment
+[submodule "CDEnrich"]
+	path = CDEnrich
+	url = https://github.com/BiocStaging/CDEnrich
 [submodule "CMEnt"]
 	path = CMEnt
 	url = https://github.com/BiocStaging/CMEnt
