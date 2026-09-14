@@ -104,9 +104,6 @@
 [submodule "Protein2Tissue"]
 	path = Protein2Tissue
 	url = https://github.com/BiocStaging/Protein2Tissue
-[submodule "QFeaturesGUI"]
-	path = QFeaturesGUI
-	url = https://github.com/BiocStaging/QFeaturesGUI
 [submodule "QuickBLAST"]
 	path = QuickBLAST
 	url = https://github.com/BiocStaging/QuickBLAST
@@ -197,9 +194,6 @@
 [submodule "gDRplots"]
 	path = gDRplots
 	url = https://github.com/BiocStaging/gDRplots
-[submodule "gdscloud"]
-	path = gdscloud
-	url = https://github.com/BiocStaging/gdscloud
 [submodule "geneClusterPattern"]
 	path = geneClusterPattern
 	url = https://github.com/BiocStaging/geneClusterPattern
