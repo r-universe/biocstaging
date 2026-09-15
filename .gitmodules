@@ -305,6 +305,9 @@
 [submodule "tTEscanR"]
 	path = tTEscanR
 	url = https://github.com/BiocStaging/tTEscanR
+[submodule "tewas"]
+	path = tewas
+	url = https://github.com/BiocStaging/tewas
 [submodule "woven"]
 	path = woven
 	url = https://github.com/BiocStaging/woven
