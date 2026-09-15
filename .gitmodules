@@ -83,6 +83,9 @@
 [submodule "MiCARA"]
 	path = MiCARA
 	url = https://github.com/BiocStaging/MiCARA
+[submodule "MsBackendParquet"]
+	path = MsBackendParquet
+	url = https://github.com/BiocStaging/MsBackendParquet
 [submodule "MsExperimentStash"]
 	path = MsExperimentStash
 	url = https://github.com/BiocStaging/MsExperimentStash
