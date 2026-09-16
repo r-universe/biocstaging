@@ -53,9 +53,6 @@
 [submodule "GenomicDataStream"]
 	path = GenomicDataStream
 	url = https://github.com/BiocStaging/GenomicDataStream
-[submodule "HuMMANet"]
-	path = HuMMANet
-	url = https://github.com/BiocStaging/HuMMANet
 [submodule "IntegratedLearner"]
 	path = IntegratedLearner
 	url = https://github.com/BiocStaging/IntegratedLearner
