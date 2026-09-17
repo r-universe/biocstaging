@@ -242,6 +242,9 @@
 [submodule "path2path"]
 	path = path2path
 	url = https://github.com/BiocStaging/path2path
+[submodule "paweh"]
+	path = paweh
+	url = https://github.com/BiocStaging/paweh
 [submodule "perturbMatch"]
 	path = perturbMatch
 	url = https://github.com/BiocStaging/perturbMatch
