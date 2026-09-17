@@ -170,6 +170,9 @@
 [submodule "cpgdirectionData"]
 	path = cpgdirectionData
 	url = https://github.com/BiocStaging/cpgdirectionData
+[submodule "crossarrayEWAS"]
+	path = crossarrayEWAS
+	url = https://github.com/BiocStaging/crossarrayEWAS
 [submodule "dmsa"]
 	path = dmsa
 	url = https://github.com/BiocStaging/dmsa
