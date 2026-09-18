@@ -143,6 +143,9 @@
 [submodule "TxParq.Hs.gencode.v49"]
 	path = TxParq.Hs.gencode.v49
 	url = https://github.com/BiocStaging/TxParq.Hs.gencode.v49
+[submodule "WithinHostExperiment"]
+	path = WithinHostExperiment
+	url = https://github.com/BiocStaging/WithinHostExperiment
 [submodule "bHIVE"]
 	path = bHIVE
 	url = https://github.com/BiocStaging/bHIVE
@@ -185,6 +188,9 @@
 [submodule "epiwraps"]
 	path = epiwraps
 	url = https://github.com/BiocStaging/epiwraps
+[submodule "exposomeSC"]
+	path = exposomeSC
+	url = https://github.com/BiocStaging/exposomeSC
 [submodule "faissR"]
 	path = faissR
 	url = https://github.com/BiocStaging/faissR
