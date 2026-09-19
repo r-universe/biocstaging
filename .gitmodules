@@ -224,6 +224,9 @@
 [submodule "karioCaS"]
 	path = karioCaS
 	url = https://github.com/BiocStaging/karioCaS
+[submodule "loopQTL"]
+	path = loopQTL
+	url = https://github.com/BiocStaging/loopQTL
 [submodule "loopcityData"]
 	path = loopcityData
 	url = https://github.com/BiocStaging/loopcityData
