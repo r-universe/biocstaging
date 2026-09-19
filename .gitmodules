@@ -152,6 +152,9 @@
 [submodule "bppg"]
 	path = bppg
 	url = https://github.com/BiocStaging/bppg
+[submodule "cascadeR"]
+	path = cascadeR
+	url = https://github.com/BiocStaging/cascadeR
 [submodule "cellchatr"]
 	path = cellchatr
 	url = https://github.com/BiocStaging/cellchatr
@@ -245,6 +248,9 @@
 [submodule "multipletR"]
 	path = multipletR
 	url = https://github.com/BiocStaging/multipletR
+[submodule "panpathAudit"]
+	path = panpathAudit
+	url = https://github.com/BiocStaging/panpathAudit
 [submodule "path2path"]
 	path = path2path
 	url = https://github.com/BiocStaging/path2path
