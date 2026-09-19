@@ -185,6 +185,9 @@
 [submodule "drugannotR"]
 	path = drugannotR
 	url = https://github.com/BiocStaging/drugannotR
+[submodule "enviPathR"]
+	path = enviPathR
+	url = https://github.com/BiocStaging/enviPathR
 [submodule "epiPortrait"]
 	path = epiPortrait
 	url = https://github.com/BiocStaging/epiPortrait
