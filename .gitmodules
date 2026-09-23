@@ -65,9 +65,6 @@
 [submodule "KODAMA"]
 	path = KODAMA
 	url = https://github.com/BiocStaging/KODAMA
-[submodule "LIPIDIFy"]
-	path = LIPIDIFy
-	url = https://github.com/BiocStaging/LIPIDIFy
 [submodule "LongOmicsTraj"]
 	path = LongOmicsTraj
 	url = https://github.com/BiocStaging/LongOmicsTraj
