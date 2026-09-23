@@ -329,6 +329,9 @@
 [submodule "tewas"]
 	path = tewas
 	url = https://github.com/BiocStaging/tewas
+[submodule "thyroidBRS"]
+	path = thyroidBRS
+	url = https://github.com/BiocStaging/thyroidBRS
 [submodule "woven"]
 	path = woven
 	url = https://github.com/BiocStaging/woven
