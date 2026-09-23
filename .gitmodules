@@ -20,6 +20,9 @@
 [submodule "ClinicalVariantR"]
 	path = ClinicalVariantR
 	url = https://github.com/BiocStaging/ClinicalVariantR
+[submodule "ConvergeR"]
+	path = ConvergeR
+	url = https://github.com/BiocStaging/ConvergeR
 [submodule "CyFj11"]
 	path = CyFj11
 	url = https://github.com/BiocStaging/CyFj11
@@ -92,6 +95,9 @@
 [submodule "OmicsLake"]
 	path = OmicsLake
 	url = https://github.com/BiocStaging/OmicsLake
+[submodule "PACE"]
+	path = PACE
+	url = https://github.com/BiocStaging/PACE
 [submodule "PACMOSData"]
 	path = PACMOSData
 	url = https://github.com/BiocStaging/PACMOSData
