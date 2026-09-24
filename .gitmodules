@@ -122,6 +122,9 @@
 [submodule "SPAROscore"]
 	path = SPAROscore
 	url = https://github.com/BiocStaging/SPAROscore
+[submodule "STRprofilerR"]
+	path = STRprofilerR
+	url = https://github.com/BiocStaging/STRprofilerR
 [submodule "SpaMTP"]
 	path = SpaMTP
 	url = https://github.com/BiocStaging/SpaMTP
