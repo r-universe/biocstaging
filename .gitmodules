@@ -224,6 +224,9 @@
 [submodule "grayleafspotr"]
 	path = grayleafspotr
 	url = https://github.com/BiocStaging/grayleafspotr
+[submodule "hcocena"]
+	path = hcocena
+	url = https://github.com/BiocStaging/hcocena
 [submodule "hmagmaR"]
 	path = hmagmaR
 	url = https://github.com/BiocStaging/hmagmaR
