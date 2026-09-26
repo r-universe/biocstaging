@@ -314,6 +314,9 @@
 [submodule "scProkaR"]
 	path = scProkaR
 	url = https://github.com/BiocStaging/scProkaR
+[submodule "scSimEval"]
+	path = scSimEval
+	url = https://github.com/BiocStaging/scSimEval
 [submodule "sceptre"]
 	path = sceptre
 	url = https://github.com/BiocStaging/sceptre
