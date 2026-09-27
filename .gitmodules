@@ -38,6 +38,9 @@
 [submodule "ECLIPSE"]
 	path = ECLIPSE
 	url = https://github.com/BiocStaging/ECLIPSE
+[submodule "GDSAnnotator"]
+	path = GDSAnnotator
+	url = https://github.com/BiocStaging/GDSAnnotator
 [submodule "GENCODEHub"]
 	path = GENCODEHub
 	url = https://github.com/BiocStaging/GENCODEHub
