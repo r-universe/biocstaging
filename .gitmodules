@@ -278,6 +278,9 @@
 [submodule "paweh"]
 	path = paweh
 	url = https://github.com/BiocStaging/paweh
+[submodule "pdactrace"]
+	path = pdactrace
+	url = https://github.com/BiocStaging/pdactrace
 [submodule "perturbMatch"]
 	path = perturbMatch
 	url = https://github.com/BiocStaging/perturbMatch
