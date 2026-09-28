@@ -143,6 +143,9 @@
 [submodule "TweedSpot"]
 	path = TweedSpot
 	url = https://github.com/BiocStaging/TweedSpot
+[submodule "Tweedieverse"]
+	path = Tweedieverse
+	url = https://github.com/BiocStaging/Tweedieverse
 [submodule "TxDb.Athaliana.Ensembl.TAIR10"]
 	path = TxDb.Athaliana.Ensembl.TAIR10
 	url = https://github.com/BiocStaging/TxDb.Athaliana.Ensembl.TAIR10
@@ -194,9 +197,6 @@
 [submodule "drugannotR"]
 	path = drugannotR
 	url = https://github.com/BiocStaging/drugannotR
-[submodule "enviPathR"]
-	path = enviPathR
-	url = https://github.com/BiocStaging/enviPathR
 [submodule "epiPortrait"]
 	path = epiPortrait
 	url = https://github.com/BiocStaging/epiPortrait
