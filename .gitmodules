@@ -134,9 +134,6 @@
 [submodule "SpaMTP"]
 	path = SpaMTP
 	url = https://github.com/BiocStaging/SpaMTP
-[submodule "SpaMTPData"]
-	path = SpaMTPData
-	url = https://github.com/BiocStaging/SpaMTPData
 [submodule "SpaMTPdb"]
 	path = SpaMTPdb
 	url = https://github.com/BiocStaging/SpaMTPdb
@@ -152,9 +149,6 @@
 [submodule "TxDb.Gmax.JGI.Gmv4"]
 	path = TxDb.Gmax.JGI.Gmv4
 	url = https://github.com/BiocStaging/TxDb.Gmax.JGI.Gmv4
-[submodule "TxDb.Osativa.MSU.RGAP7"]
-	path = TxDb.Osativa.MSU.RGAP7
-	url = https://github.com/BiocStaging/TxDb.Osativa.MSU.RGAP7
 [submodule "TxParq.Hs.gencode.v49"]
 	path = TxParq.Hs.gencode.v49
 	url = https://github.com/BiocStaging/TxParq.Hs.gencode.v49
