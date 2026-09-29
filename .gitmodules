@@ -263,6 +263,9 @@
 [submodule "mgcca"]
 	path = mgcca
 	url = https://github.com/BiocStaging/mgcca
+[submodule "myoRDNA"]
+	path = myoRDNA
+	url = https://github.com/BiocStaging/myoRDNA
 [submodule "panpathAudit"]
 	path = panpathAudit
 	url = https://github.com/BiocStaging/panpathAudit
