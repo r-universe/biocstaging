@@ -263,9 +263,6 @@
 [submodule "mgcca"]
 	path = mgcca
 	url = https://github.com/BiocStaging/mgcca
-[submodule "multipletR"]
-	path = multipletR
-	url = https://github.com/BiocStaging/multipletR
 [submodule "panpathAudit"]
 	path = panpathAudit
 	url = https://github.com/BiocStaging/panpathAudit
