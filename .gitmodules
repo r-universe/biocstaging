@@ -263,6 +263,9 @@
 [submodule "myoRDNA"]
 	path = myoRDNA
 	url = https://github.com/BiocStaging/myoRDNA
+[submodule "orthoRibbon"]
+	path = orthoRibbon
+	url = https://github.com/BiocStaging/orthoRibbon
 [submodule "panpathAudit"]
 	path = panpathAudit
 	url = https://github.com/BiocStaging/panpathAudit
