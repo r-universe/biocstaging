@@ -293,9 +293,6 @@
 [submodule "remart"]
 	path = remart
 	url = https://github.com/BiocStaging/remart
-[submodule "rnaSentry"]
-	path = rnaSentry
-	url = https://github.com/BiocStaging/rnaSentry
 [submodule "saintexpress"]
 	path = saintexpress
 	url = https://github.com/BiocStaging/saintexpress
