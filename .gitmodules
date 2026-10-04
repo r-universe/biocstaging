@@ -116,6 +116,9 @@
 [submodule "Protein2Tissue"]
 	path = Protein2Tissue
 	url = https://github.com/BiocStaging/Protein2Tissue
+[submodule "PscanRBackgrounds"]
+	path = PscanRBackgrounds
+	url = https://github.com/BiocStaging/PscanRBackgrounds
 [submodule "QuickBLAST"]
 	path = QuickBLAST
 	url = https://github.com/BiocStaging/QuickBLAST
