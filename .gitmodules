@@ -233,6 +233,9 @@
 [submodule "gDRplots"]
 	path = gDRplots
 	url = https://github.com/BiocStaging/gDRplots
+[submodule "geneticumap"]
+	path = geneticumap
+	url = https://github.com/BiocStaging/geneticumap
 [submodule "ggwas"]
 	path = ggwas
 	url = https://github.com/BiocStaging/ggwas
