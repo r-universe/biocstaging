@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/biocstaging/biocstaging.r-universe.dev
 	branch = HEAD
+[submodule "BamScaleR"]
+	path = BamScaleR
+	url = https://github.com/BiocStaging/BamScaleR
 [submodule "BatchVaria"]
 	path = BatchVaria
 	url = https://github.com/BiocStaging/BatchVaria
@@ -95,6 +98,9 @@
 [submodule "NADIA"]
 	path = NADIA
 	url = https://github.com/BiocStaging/NADIA
+[submodule "OmicsChrono"]
+	path = OmicsChrono
+	url = https://github.com/BiocStaging/OmicsChrono
 [submodule "OmicsLake"]
 	path = OmicsLake
 	url = https://github.com/BiocStaging/OmicsLake
@@ -116,6 +122,9 @@
 [submodule "Protein2Tissue"]
 	path = Protein2Tissue
 	url = https://github.com/BiocStaging/Protein2Tissue
+[submodule "PscanR"]
+	path = PscanR
+	url = https://github.com/BiocStaging/PscanR
 [submodule "PscanRBackgrounds"]
 	path = PscanRBackgrounds
 	url = https://github.com/BiocStaging/PscanRBackgrounds
@@ -140,6 +149,9 @@
 [submodule "SpaMTPdb"]
 	path = SpaMTPdb
 	url = https://github.com/BiocStaging/SpaMTPdb
+[submodule "SummarizedHeatmap"]
+	path = SummarizedHeatmap
+	url = https://github.com/BiocStaging/SummarizedHeatmap
 [submodule "SwitchClass"]
 	path = SwitchClass
 	url = https://github.com/BiocStaging/SwitchClass
@@ -239,6 +251,9 @@
 [submodule "karioCaS"]
 	path = karioCaS
 	url = https://github.com/BiocStaging/karioCaS
+[submodule "lantern"]
+	path = lantern
+	url = https://github.com/BiocStaging/lantern
 [submodule "loopQTL"]
 	path = loopQTL
 	url = https://github.com/BiocStaging/loopQTL
