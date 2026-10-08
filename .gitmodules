@@ -326,6 +326,9 @@
 [submodule "sbivar"]
 	path = sbivar
 	url = https://github.com/BiocStaging/sbivar
+[submodule "scDonorAudit"]
+	path = scDonorAudit
+	url = https://github.com/BiocStaging/scDonorAudit
 [submodule "scGenePanel"]
 	path = scGenePanel
 	url = https://github.com/BiocStaging/scGenePanel
