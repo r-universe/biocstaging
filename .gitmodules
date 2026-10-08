@@ -284,6 +284,9 @@
 [submodule "mgcca"]
 	path = mgcca
 	url = https://github.com/BiocStaging/mgcca
+[submodule "myTestPkg"]
+	path = myTestPkg
+	url = https://github.com/BiocStaging/myTestPkg
 [submodule "myoRDNA"]
 	path = myoRDNA
 	url = https://github.com/BiocStaging/myoRDNA
