@@ -146,6 +146,9 @@
 [submodule "SpaMTPdb"]
 	path = SpaMTPdb
 	url = https://github.com/BiocStaging/SpaMTPdb
+[submodule "SpatialData.data"]
+	path = SpatialData.data
+	url = https://github.com/BiocStaging/SpatialData.data
 [submodule "SpatialData.plot"]
 	path = SpatialData.plot
 	url = https://github.com/BiocStaging/SpatialData.plot
