@@ -59,6 +59,9 @@
 [submodule "GenomicDataStream"]
 	path = GenomicDataStream
 	url = https://github.com/BiocStaging/GenomicDataStream
+[submodule "HaploBreedR"]
+	path = HaploBreedR
+	url = https://github.com/BiocStaging/HaploBreedR
 [submodule "IntegratedLearner"]
 	path = IntegratedLearner
 	url = https://github.com/BiocStaging/IntegratedLearner
