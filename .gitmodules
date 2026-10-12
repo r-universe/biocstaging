@@ -134,6 +134,9 @@
 [submodule "RAMEN"]
 	path = RAMEN
 	url = https://github.com/BiocStaging/RAMEN
+[submodule "RPBC"]
+	path = RPBC
+	url = https://github.com/BiocStaging/RPBC
 [submodule "RhyME"]
 	path = RhyME
 	url = https://github.com/BiocStaging/RhyME
