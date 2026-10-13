@@ -149,9 +149,6 @@
 [submodule "SpatialData.plot"]
 	path = SpatialData.plot
 	url = https://github.com/BiocStaging/SpatialData.plot
-[submodule "SummarizedHeatmap"]
-	path = SummarizedHeatmap
-	url = https://github.com/BiocStaging/SummarizedHeatmap
 [submodule "SwitchClass"]
 	path = SwitchClass
 	url = https://github.com/BiocStaging/SwitchClass
