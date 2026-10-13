@@ -116,6 +116,9 @@
 [submodule "PTMsToPathwaysData"]
 	path = PTMsToPathwaysData
 	url = https://github.com/BiocStaging/PTMsToPathwaysData
+[submodule "PhiSpace"]
+	path = PhiSpace
+	url = https://github.com/BiocStaging/PhiSpace
 [submodule "PlantTxDbHub"]
 	path = PlantTxDbHub
 	url = https://github.com/BiocStaging/PlantTxDbHub
@@ -152,9 +155,6 @@
 [submodule "SpaMTPdb"]
 	path = SpaMTPdb
 	url = https://github.com/BiocStaging/SpaMTPdb
-[submodule "SpatialData.data"]
-	path = SpatialData.data
-	url = https://github.com/BiocStaging/SpatialData.data
 [submodule "SpatialData.plot"]
 	path = SpatialData.plot
 	url = https://github.com/BiocStaging/SpatialData.plot
