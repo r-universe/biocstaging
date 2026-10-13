@@ -5,9 +5,6 @@
 [submodule "BamScaleR"]
 	path = BamScaleR
 	url = https://github.com/BiocStaging/BamScaleR
-[submodule "BatchVaria"]
-	path = BatchVaria
-	url = https://github.com/BiocStaging/BatchVaria
 [submodule "BreedingExperiment"]
 	path = BreedingExperiment
 	url = https://github.com/BiocStaging/BreedingExperiment
@@ -32,9 +29,6 @@
 [submodule "DgeaHeatmap"]
 	path = DgeaHeatmap
 	url = https://github.com/BiocStaging/DgeaHeatmap
-[submodule "DiPPER"]
-	path = DiPPER
-	url = https://github.com/BiocStaging/DiPPER
 [submodule "ECLIPSE"]
 	path = ECLIPSE
 	url = https://github.com/BiocStaging/ECLIPSE
@@ -65,9 +59,6 @@
 [submodule "IntegratedLearner"]
 	path = IntegratedLearner
 	url = https://github.com/BiocStaging/IntegratedLearner
-[submodule "IntrinsicScan"]
-	path = IntrinsicScan
-	url = https://github.com/BiocStaging/IntrinsicScan
 [submodule "KODAMA"]
 	path = KODAMA
 	url = https://github.com/BiocStaging/KODAMA
