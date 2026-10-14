@@ -356,6 +356,9 @@
 [submodule "strainspy"]
 	path = strainspy
 	url = https://github.com/BiocStaging/strainspy
+[submodule "superintervalsr"]
+	path = superintervalsr
+	url = https://github.com/BiocStaging/superintervalsr
 [submodule "tTEscanR"]
 	path = tTEscanR
 	url = https://github.com/BiocStaging/tTEscanR
