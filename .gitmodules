@@ -179,6 +179,9 @@
 [submodule "cascadeR"]
 	path = cascadeR
 	url = https://github.com/BiocStaging/cascadeR
+[submodule "causalASCEND"]
+	path = causalASCEND
+	url = https://github.com/BiocStaging/causalASCEND
 [submodule "cellchatr"]
 	path = cellchatr
 	url = https://github.com/BiocStaging/cellchatr
