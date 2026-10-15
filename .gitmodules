@@ -98,9 +98,6 @@
 [submodule "OrnTx"]
 	path = OrnTx
 	url = https://github.com/BiocStaging/OrnTx
-[submodule "PACE"]
-	path = PACE
-	url = https://github.com/BiocStaging/PACE
 [submodule "PACMOSData"]
 	path = PACMOSData
 	url = https://github.com/BiocStaging/PACMOSData
