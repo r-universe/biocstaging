@@ -140,6 +140,9 @@
 [submodule "STRprofilerR"]
 	path = STRprofilerR
 	url = https://github.com/BiocStaging/STRprofilerR
+[submodule "SegStability"]
+	path = SegStability
+	url = https://github.com/BiocStaging/SegStability
 [submodule "SpaMTP"]
 	path = SpaMTP
 	url = https://github.com/BiocStaging/SpaMTP
