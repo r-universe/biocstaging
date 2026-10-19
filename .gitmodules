@@ -191,6 +191,9 @@
 [submodule "circaTime"]
 	path = circaTime
 	url = https://github.com/BiocStaging/circaTime
+[submodule "conformeR"]
+	path = conformeR
+	url = https://github.com/BiocStaging/conformeR
 [submodule "consensusRegions"]
 	path = consensusRegions
 	url = https://github.com/BiocStaging/consensusRegions
