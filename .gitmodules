@@ -83,6 +83,9 @@
 [submodule "MsExperimentStash"]
 	path = MsExperimentStash
 	url = https://github.com/BiocStaging/MsExperimentStash
+[submodule "MultiOmicsCancer"]
+	path = MultiOmicsCancer
+	url = https://github.com/BiocStaging/MultiOmicsCancer
 [submodule "NADIA"]
 	path = NADIA
 	url = https://github.com/BiocStaging/NADIA
