@@ -95,6 +95,9 @@
 [submodule "OmniCorr"]
 	path = OmniCorr
 	url = https://github.com/BiocStaging/OmniCorr
+[submodule "OncoSeq"]
+	path = OncoSeq
+	url = https://github.com/BiocStaging/OncoSeq
 [submodule "OrnTx"]
 	path = OrnTx
 	url = https://github.com/BiocStaging/OrnTx
