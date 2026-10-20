@@ -50,6 +50,9 @@
 [submodule "GenomicDataStream"]
 	path = GenomicDataStream
 	url = https://github.com/BiocStaging/GenomicDataStream
+[submodule "HTAN"]
+	path = HTAN
+	url = https://github.com/BiocStaging/HTAN
 [submodule "HaploBreedR"]
 	path = HaploBreedR
 	url = https://github.com/BiocStaging/HaploBreedR
