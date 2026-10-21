@@ -308,9 +308,6 @@
 [submodule "postexportKinetics"]
 	path = postexportKinetics
 	url = https://github.com/BiocStaging/postexportKinetics
-[submodule "prolfqua"]
-	path = prolfqua
-	url = https://github.com/BiocStaging/prolfqua
 [submodule "reglScatterplotR"]
 	path = reglScatterplotR
 	url = https://github.com/BiocStaging/reglScatterplotR
