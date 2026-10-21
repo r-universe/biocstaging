@@ -128,9 +128,6 @@
 [submodule "QuickBLAST"]
 	path = QuickBLAST
 	url = https://github.com/BiocStaging/QuickBLAST
-[submodule "RAMEN"]
-	path = RAMEN
-	url = https://github.com/BiocStaging/RAMEN
 [submodule "RPBC"]
 	path = RPBC
 	url = https://github.com/BiocStaging/RPBC
@@ -140,9 +137,6 @@
 [submodule "SPAROscore"]
 	path = SPAROscore
 	url = https://github.com/BiocStaging/SPAROscore
-[submodule "STRprofilerR"]
-	path = STRprofilerR
-	url = https://github.com/BiocStaging/STRprofilerR
 [submodule "SegStability"]
 	path = SegStability
 	url = https://github.com/BiocStaging/SegStability
@@ -299,9 +293,6 @@
 [submodule "panpathAudit"]
 	path = panpathAudit
 	url = https://github.com/BiocStaging/panpathAudit
-[submodule "path2path"]
-	path = path2path
-	url = https://github.com/BiocStaging/path2path
 [submodule "paweh"]
 	path = paweh
 	url = https://github.com/BiocStaging/paweh
