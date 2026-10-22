@@ -146,9 +146,6 @@
 [submodule "SpaMTPdb"]
 	path = SpaMTPdb
 	url = https://github.com/BiocStaging/SpaMTPdb
-[submodule "SpatialData.plot"]
-	path = SpatialData.plot
-	url = https://github.com/BiocStaging/SpatialData.plot
 [submodule "SwitchClass"]
 	path = SwitchClass
 	url = https://github.com/BiocStaging/SwitchClass
@@ -308,9 +305,6 @@
 [submodule "postexportKinetics"]
 	path = postexportKinetics
 	url = https://github.com/BiocStaging/postexportKinetics
-[submodule "reglScatterplotR"]
-	path = reglScatterplotR
-	url = https://github.com/BiocStaging/reglScatterplotR
 [submodule "remart"]
 	path = remart
 	url = https://github.com/BiocStaging/remart
