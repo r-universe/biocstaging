@@ -347,6 +347,9 @@
 [submodule "spbtest5"]
 	path = spbtest5
 	url = https://github.com/Bioconductor/spbtest5
+[submodule "splitTypeR"]
+	path = splitTypeR
+	url = https://github.com/BiocStaging/splitTypeR
 [submodule "strainspy"]
 	path = strainspy
 	url = https://github.com/BiocStaging/strainspy
