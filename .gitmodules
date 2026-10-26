@@ -71,12 +71,18 @@
 [submodule "MRManalyzeR"]
 	path = MRManalyzeR
 	url = https://github.com/BiocStaging/MRManalyzeR
+[submodule "MacrophageFramework"]
+	path = MacrophageFramework
+	url = https://github.com/BiocStaging/MacrophageFramework
 [submodule "MagellanNTK"]
 	path = MagellanNTK
 	url = https://github.com/BiocStaging/MagellanNTK
 [submodule "MiCARA"]
 	path = MiCARA
 	url = https://github.com/BiocStaging/MiCARA
+[submodule "MsBackendTimsTof"]
+	path = MsBackendTimsTof
+	url = https://github.com/BiocStaging/MsBackendTimsTof
 [submodule "MsExperimentStash"]
 	path = MsExperimentStash
 	url = https://github.com/BiocStaging/MsExperimentStash
@@ -320,9 +326,6 @@
 [submodule "scMAGeCK"]
 	path = scMAGeCK
 	url = https://github.com/BiocStaging/scMAGeCK
-[submodule "scOverlay"]
-	path = scOverlay
-	url = https://github.com/BiocStaging/scOverlay
 [submodule "scProkaR"]
 	path = scProkaR
 	url = https://github.com/BiocStaging/scProkaR
