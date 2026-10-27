@@ -353,9 +353,6 @@
 [submodule "splitTypeR"]
 	path = splitTypeR
 	url = https://github.com/BiocStaging/splitTypeR
-[submodule "strainspy"]
-	path = strainspy
-	url = https://github.com/BiocStaging/strainspy
 [submodule "superintervalsr"]
 	path = superintervalsr
 	url = https://github.com/BiocStaging/superintervalsr
