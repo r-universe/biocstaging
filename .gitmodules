@@ -164,9 +164,9 @@
 [submodule "TxParq.Hs.gencode.v49"]
 	path = TxParq.Hs.gencode.v49
 	url = https://github.com/BiocStaging/TxParq.Hs.gencode.v49
-[submodule "WithinHostExperiment"]
-	path = WithinHostExperiment
-	url = https://github.com/BiocStaging/WithinHostExperiment
+[submodule "alabaster.treese"]
+	path = alabaster.treese
+	url = https://github.com/BiocStaging/alabaster.treese
 [submodule "bHIVE"]
 	path = bHIVE
 	url = https://github.com/BiocStaging/bHIVE
