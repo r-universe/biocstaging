@@ -230,6 +230,9 @@
 [submodule "fastPLS"]
 	path = fastPLS
 	url = https://github.com/BiocStaging/fastPLS
+[submodule "fuzzyCell"]
+	path = fuzzyCell
+	url = https://github.com/BiocStaging/fuzzyCell
 [submodule "gDRplots"]
 	path = gDRplots
 	url = https://github.com/BiocStaging/gDRplots
