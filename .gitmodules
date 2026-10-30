@@ -170,6 +170,9 @@
 [submodule "bHIVE"]
 	path = bHIVE
 	url = https://github.com/BiocStaging/bHIVE
+[submodule "bigWig"]
+	path = bigWig
+	url = https://github.com/BiocStaging/bigWig
 [submodule "bppg"]
 	path = bppg
 	url = https://github.com/BiocStaging/bppg
