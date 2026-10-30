@@ -128,6 +128,9 @@
 [submodule "QuickBLAST"]
 	path = QuickBLAST
 	url = https://github.com/BiocStaging/QuickBLAST
+[submodule "RGenEDA"]
+	path = RGenEDA
+	url = https://github.com/BiocStaging/RGenEDA
 [submodule "RPBC"]
 	path = RPBC
 	url = https://github.com/BiocStaging/RPBC
