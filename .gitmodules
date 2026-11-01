@@ -35,9 +35,6 @@
 [submodule "GO.ddb"]
 	path = GO.ddb
 	url = https://github.com/BiocStaging/GO.ddb
-[submodule "GSE142512"]
-	path = GSE142512
-	url = https://github.com/BiocStaging/GSE142512
 [submodule "GeneSCARAB"]
 	path = GeneSCARAB
 	url = https://github.com/BiocStaging/GeneSCARAB
@@ -74,9 +71,6 @@
 [submodule "MacrophageFramework"]
 	path = MacrophageFramework
 	url = https://github.com/BiocStaging/MacrophageFramework
-[submodule "MagellanNTK"]
-	path = MagellanNTK
-	url = https://github.com/BiocStaging/MagellanNTK
 [submodule "MiCARA"]
 	path = MiCARA
 	url = https://github.com/BiocStaging/MiCARA
