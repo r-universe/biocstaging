@@ -281,9 +281,6 @@
 [submodule "miREA"]
 	path = miREA
 	url = https://github.com/BiocStaging/miREA
-[submodule "myoRDNA"]
-	path = myoRDNA
-	url = https://github.com/BiocStaging/myoRDNA
 [submodule "orthoRibbon"]
 	path = orthoRibbon
 	url = https://github.com/BiocStaging/orthoRibbon
@@ -338,6 +335,9 @@
 [submodule "selexprepR"]
 	path = selexprepR
 	url = https://github.com/BiocStaging/selexprepR
+[submodule "seqRdna"]
+	path = seqRdna
+	url = https://github.com/BiocStaging/seqRdna
 [submodule "spatialDESeq"]
 	path = spatialDESeq
 	url = https://github.com/BiocStaging/spatialDESeq
