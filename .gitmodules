@@ -53,6 +53,9 @@
 [submodule "IntegratedLearner"]
 	path = IntegratedLearner
 	url = https://github.com/BiocStaging/IntegratedLearner
+[submodule "IsoNetAnalyzeR"]
+	path = IsoNetAnalyzeR
+	url = https://github.com/BiocStaging/IsoNetAnalyzeR
 [submodule "KODAMA"]
 	path = KODAMA
 	url = https://github.com/BiocStaging/KODAMA
@@ -122,6 +125,9 @@
 [submodule "QuickBLAST"]
 	path = QuickBLAST
 	url = https://github.com/BiocStaging/QuickBLAST
+[submodule "R4AOP"]
+	path = R4AOP
+	url = https://github.com/BiocStaging/R4AOP
 [submodule "RGenEDA"]
 	path = RGenEDA
 	url = https://github.com/BiocStaging/RGenEDA
@@ -161,6 +167,9 @@
 [submodule "TxParq.Hs.gencode.v49"]
 	path = TxParq.Hs.gencode.v49
 	url = https://github.com/BiocStaging/TxParq.Hs.gencode.v49
+[submodule "apbCatalogR"]
+	path = apbCatalogR
+	url = https://github.com/BiocStaging/apbCatalogR
 [submodule "bHIVE"]
 	path = bHIVE
 	url = https://github.com/BiocStaging/bHIVE
