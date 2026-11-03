@@ -260,9 +260,6 @@
 [submodule "inferRecom"]
 	path = inferRecom
 	url = https://github.com/BiocStaging/inferRecom
-[submodule "lantern"]
-	path = lantern
-	url = https://github.com/BiocStaging/lantern
 [submodule "loopQTL"]
 	path = loopQTL
 	url = https://github.com/BiocStaging/loopQTL
