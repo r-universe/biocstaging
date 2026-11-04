@@ -14,9 +14,6 @@
 [submodule "CanvasXpressBio"]
 	path = CanvasXpressBio
 	url = https://github.com/BiocStaging/CanvasXpressBio
-[submodule "ClinicalVariantR"]
-	path = ClinicalVariantR
-	url = https://github.com/BiocStaging/ClinicalVariantR
 [submodule "ConvergeR"]
 	path = ConvergeR
 	url = https://github.com/BiocStaging/ConvergeR
@@ -326,9 +323,6 @@
 [submodule "scMAGeCK"]
 	path = scMAGeCK
 	url = https://github.com/BiocStaging/scMAGeCK
-[submodule "scProkaR"]
-	path = scProkaR
-	url = https://github.com/BiocStaging/scProkaR
 [submodule "scSimEval"]
 	path = scSimEval
 	url = https://github.com/BiocStaging/scSimEval
@@ -359,9 +353,6 @@
 [submodule "superintervalsr"]
 	path = superintervalsr
 	url = https://github.com/BiocStaging/superintervalsr
-[submodule "tTEscanR"]
-	path = tTEscanR
-	url = https://github.com/BiocStaging/tTEscanR
 [submodule "tewas"]
 	path = tewas
 	url = https://github.com/BiocStaging/tewas
