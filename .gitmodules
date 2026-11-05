@@ -65,9 +65,6 @@
 [submodule "MRCCC"]
 	path = MRCCC
 	url = https://github.com/BiocStaging/MRCCC
-[submodule "MRManalyzeR"]
-	path = MRManalyzeR
-	url = https://github.com/BiocStaging/MRManalyzeR
 [submodule "MacrophageFramework"]
 	path = MacrophageFramework
 	url = https://github.com/BiocStaging/MacrophageFramework
