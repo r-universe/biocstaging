@@ -113,9 +113,6 @@
 [submodule "PscanR"]
 	path = PscanR
 	url = https://github.com/BiocStaging/PscanR
-[submodule "PscanRBackgrounds"]
-	path = PscanRBackgrounds
-	url = https://github.com/BiocStaging/PscanRBackgrounds
 [submodule "QuickBLAST"]
 	path = QuickBLAST
 	url = https://github.com/BiocStaging/QuickBLAST
