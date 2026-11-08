@@ -125,9 +125,6 @@
 [submodule "RPBC"]
 	path = RPBC
 	url = https://github.com/BiocStaging/RPBC
-[submodule "RhyME"]
-	path = RhyME
-	url = https://github.com/BiocStaging/RhyME
 [submodule "SPAROscore"]
 	path = SPAROscore
 	url = https://github.com/BiocStaging/SPAROscore
@@ -161,9 +158,6 @@
 [submodule "apbCatalogR"]
 	path = apbCatalogR
 	url = https://github.com/BiocStaging/apbCatalogR
-[submodule "bHIVE"]
-	path = bHIVE
-	url = https://github.com/BiocStaging/bHIVE
 [submodule "bigWig"]
 	path = bigWig
 	url = https://github.com/BiocStaging/bigWig
@@ -200,9 +194,6 @@
 [submodule "cpgdirectionData"]
 	path = cpgdirectionData
 	url = https://github.com/BiocStaging/cpgdirectionData
-[submodule "crossarrayEWAS"]
-	path = crossarrayEWAS
-	url = https://github.com/BiocStaging/crossarrayEWAS
 [submodule "dmsa"]
 	path = dmsa
 	url = https://github.com/BiocStaging/dmsa
