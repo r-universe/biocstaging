@@ -122,9 +122,6 @@
 [submodule "RGenEDA"]
 	path = RGenEDA
 	url = https://github.com/BiocStaging/RGenEDA
-[submodule "RPBC"]
-	path = RPBC
-	url = https://github.com/BiocStaging/RPBC
 [submodule "SPAROscore"]
 	path = SPAROscore
 	url = https://github.com/BiocStaging/SPAROscore
@@ -254,9 +251,6 @@
 [submodule "methylTFR"]
 	path = methylTFR
 	url = https://github.com/BiocStaging/methylTFR
-[submodule "methylTFRAnnotationHg38"]
-	path = methylTFRAnnotationHg38
-	url = https://github.com/BiocStaging/methylTFRAnnotationHg38
 [submodule "mgcca"]
 	path = mgcca
 	url = https://github.com/BiocStaging/mgcca
