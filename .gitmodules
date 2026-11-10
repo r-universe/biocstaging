@@ -155,6 +155,9 @@
 [submodule "apbCatalogR"]
 	path = apbCatalogR
 	url = https://github.com/BiocStaging/apbCatalogR
+[submodule "bgnormR"]
+	path = bgnormR
+	url = https://github.com/BiocStaging/bgnormR
 [submodule "bigWig"]
 	path = bigWig
 	url = https://github.com/BiocStaging/bigWig
@@ -320,6 +323,9 @@
 [submodule "spbtest5"]
 	path = spbtest5
 	url = https://github.com/Bioconductor/spbtest5
+[submodule "spiDE"]
+	path = spiDE
+	url = https://github.com/BiocStaging/spiDE
 [submodule "spliceTerrain"]
 	path = spliceTerrain
 	url = https://github.com/BiocStaging/spliceTerrain
@@ -332,6 +338,9 @@
 [submodule "tewas"]
 	path = tewas
 	url = https://github.com/BiocStaging/tewas
+[submodule "thanatome"]
+	path = thanatome
+	url = https://github.com/BiocStaging/thanatome
 [submodule "woven"]
 	path = woven
 	url = https://github.com/BiocStaging/woven
