@@ -23,9 +23,6 @@
 [submodule "DgeaHeatmap"]
 	path = DgeaHeatmap
 	url = https://github.com/BiocStaging/DgeaHeatmap
-[submodule "ECLIPSE"]
-	path = ECLIPSE
-	url = https://github.com/BiocStaging/ECLIPSE
 [submodule "GENCODEHub"]
 	path = GENCODEHub
 	url = https://github.com/BiocStaging/GENCODEHub
