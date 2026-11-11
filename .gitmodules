@@ -242,9 +242,6 @@
 [submodule "methylTFR"]
 	path = methylTFR
 	url = https://github.com/BiocStaging/methylTFR
-[submodule "mgcca"]
-	path = mgcca
-	url = https://github.com/BiocStaging/mgcca
 [submodule "miREA"]
 	path = miREA
 	url = https://github.com/BiocStaging/miREA
