@@ -74,9 +74,6 @@
 [submodule "MultiOmicsCancer"]
 	path = MultiOmicsCancer
 	url = https://github.com/BiocStaging/MultiOmicsCancer
-[submodule "NADIA"]
-	path = NADIA
-	url = https://github.com/BiocStaging/NADIA
 [submodule "OmicsChrono"]
 	path = OmicsChrono
 	url = https://github.com/BiocStaging/OmicsChrono
@@ -269,6 +266,9 @@
 [submodule "remart"]
 	path = remart
 	url = https://github.com/BiocStaging/remart
+[submodule "repli"]
+	path = repli
+	url = https://github.com/BiocStaging/repli
 [submodule "saintexpress"]
 	path = saintexpress
 	url = https://github.com/BiocStaging/saintexpress
