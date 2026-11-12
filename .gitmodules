@@ -137,9 +137,6 @@
 [submodule "TxParq.Hs.gencode.v49"]
 	path = TxParq.Hs.gencode.v49
 	url = https://github.com/BiocStaging/TxParq.Hs.gencode.v49
-[submodule "apbCatalogR"]
-	path = apbCatalogR
-	url = https://github.com/BiocStaging/apbCatalogR
 [submodule "bgnormR"]
 	path = bgnormR
 	url = https://github.com/BiocStaging/bgnormR
