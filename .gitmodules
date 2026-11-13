@@ -11,9 +11,6 @@
 [submodule "CDEnrich"]
 	path = CDEnrich
 	url = https://github.com/BiocStaging/CDEnrich
-[submodule "CanvasXpressBio"]
-	path = CanvasXpressBio
-	url = https://github.com/BiocStaging/CanvasXpressBio
 [submodule "ConvergeR"]
 	path = ConvergeR
 	url = https://github.com/BiocStaging/ConvergeR
