@@ -104,6 +104,9 @@
 [submodule "RGenEDA"]
 	path = RGenEDA
 	url = https://github.com/BiocStaging/RGenEDA
+[submodule "SACAT"]
+	path = SACAT
+	url = https://github.com/BiocStaging/SACAT
 [submodule "SPAROscore"]
 	path = SPAROscore
 	url = https://github.com/BiocStaging/SPAROscore
