@@ -143,9 +143,6 @@
 [submodule "cascadeR"]
 	path = cascadeR
 	url = https://github.com/BiocStaging/cascadeR
-[submodule "cellchatr"]
-	path = cellchatr
-	url = https://github.com/BiocStaging/cellchatr
 [submodule "cellpaintr"]
 	path = cellpaintr
 	url = https://github.com/BiocStaging/cellpaintr
@@ -179,6 +176,9 @@
 [submodule "epiwraps"]
 	path = epiwraps
 	url = https://github.com/BiocStaging/epiwraps
+[submodule "exploreDE"]
+	path = exploreDE
+	url = https://github.com/BiocStaging/exploreDE
 [submodule "exposomeSC"]
 	path = exposomeSC
 	url = https://github.com/BiocStaging/exposomeSC
