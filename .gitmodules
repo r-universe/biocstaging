@@ -290,9 +290,6 @@
 [submodule "selexprepR"]
 	path = selexprepR
 	url = https://github.com/BiocStaging/selexprepR
-[submodule "seqRdna"]
-	path = seqRdna
-	url = https://github.com/BiocStaging/seqRdna
 [submodule "spatialDESeq"]
 	path = spatialDESeq
 	url = https://github.com/BiocStaging/spatialDESeq
