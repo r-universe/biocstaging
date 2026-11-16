@@ -218,6 +218,9 @@
 [submodule "inferRecom"]
 	path = inferRecom
 	url = https://github.com/BiocStaging/inferRecom
+[submodule "looOmics"]
+	path = looOmics
+	url = https://github.com/BiocStaging/looOmics
 [submodule "loopQTL"]
 	path = loopQTL
 	url = https://github.com/BiocStaging/loopQTL
