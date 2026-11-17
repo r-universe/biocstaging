@@ -41,9 +41,6 @@
 [submodule "HaploBreedR"]
 	path = HaploBreedR
 	url = https://github.com/BiocStaging/HaploBreedR
-[submodule "IsoNetAnalyzeR"]
-	path = IsoNetAnalyzeR
-	url = https://github.com/BiocStaging/IsoNetAnalyzeR
 [submodule "KODAMA"]
 	path = KODAMA
 	url = https://github.com/BiocStaging/KODAMA
