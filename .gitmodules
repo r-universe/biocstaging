@@ -314,6 +314,3 @@
 [submodule "thanatome"]
 	path = thanatome
 	url = https://github.com/BiocStaging/thanatome
-[submodule "woven"]
-	path = woven
-	url = https://github.com/BiocStaging/woven
