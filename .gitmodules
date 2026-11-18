@@ -233,6 +233,9 @@
 [submodule "miREA"]
 	path = miREA
 	url = https://github.com/BiocStaging/miREA
+[submodule "omicslog"]
+	path = omicslog
+	url = https://github.com/BiocStaging/omicslog
 [submodule "orthoRibbon"]
 	path = orthoRibbon
 	url = https://github.com/BiocStaging/orthoRibbon
