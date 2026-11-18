@@ -293,6 +293,9 @@
 [submodule "spiDE"]
 	path = spiDE
 	url = https://github.com/BiocStaging/spiDE
+[submodule "spiSEE"]
+	path = spiSEE
+	url = https://github.com/BiocStaging/spiSEE
 [submodule "spliceTerrain"]
 	path = spliceTerrain
 	url = https://github.com/BiocStaging/spliceTerrain
