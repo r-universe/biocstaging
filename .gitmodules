@@ -92,9 +92,6 @@
 [submodule "Protein2Tissue"]
 	path = Protein2Tissue
 	url = https://github.com/BiocStaging/Protein2Tissue
-[submodule "QuickBLAST"]
-	path = QuickBLAST
-	url = https://github.com/BiocStaging/QuickBLAST
 [submodule "R4AOP"]
 	path = R4AOP
 	url = https://github.com/BiocStaging/R4AOP
@@ -239,9 +236,6 @@
 [submodule "orthoRibbon"]
 	path = orthoRibbon
 	url = https://github.com/BiocStaging/orthoRibbon
-[submodule "panpathAudit"]
-	path = panpathAudit
-	url = https://github.com/BiocStaging/panpathAudit
 [submodule "paweh"]
 	path = paweh
 	url = https://github.com/BiocStaging/paweh
