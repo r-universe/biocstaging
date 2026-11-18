@@ -11,6 +11,9 @@
 [submodule "CDEnrich"]
 	path = CDEnrich
 	url = https://github.com/BiocStaging/CDEnrich
+[submodule "CPTACdata"]
+	path = CPTACdata
+	url = https://github.com/BiocStaging/CPTACdata
 [submodule "ConvergeR"]
 	path = ConvergeR
 	url = https://github.com/BiocStaging/ConvergeR
