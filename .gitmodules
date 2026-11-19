@@ -251,6 +251,9 @@
 [submodule "perturbMatchData"]
 	path = perturbMatchData
 	url = https://github.com/BiocStaging/perturbMatchData
+[submodule "plasticdb"]
+	path = plasticdb
+	url = https://github.com/BiocStaging/plasticdb
 [submodule "postexportKinetics"]
 	path = postexportKinetics
 	url = https://github.com/BiocStaging/postexportKinetics
