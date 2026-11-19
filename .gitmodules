@@ -317,3 +317,6 @@
 [submodule "thanatome"]
 	path = thanatome
 	url = https://github.com/BiocStaging/thanatome
+[submodule "tn5bias"]
+	path = tn5bias
+	url = https://github.com/BiocStaging/tn5bias
