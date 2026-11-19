@@ -221,9 +221,6 @@
 [submodule "mdclust"]
 	path = mdclust
 	url = https://github.com/BiocStaging/mdclust
-[submodule "mesa"]
-	path = mesa
-	url = https://github.com/BiocStaging/mesa
 [submodule "methylTFR"]
 	path = methylTFR
 	url = https://github.com/BiocStaging/methylTFR
