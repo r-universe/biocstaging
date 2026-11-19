@@ -62,9 +62,6 @@
 [submodule "MsBackendTimsTof"]
 	path = MsBackendTimsTof
 	url = https://github.com/BiocStaging/MsBackendTimsTof
-[submodule "MsExperimentStash"]
-	path = MsExperimentStash
-	url = https://github.com/BiocStaging/MsExperimentStash
 [submodule "MultiOmicsCancer"]
 	path = MultiOmicsCancer
 	url = https://github.com/BiocStaging/MultiOmicsCancer
@@ -278,6 +275,9 @@
 [submodule "scSimEval"]
 	path = scSimEval
 	url = https://github.com/BiocStaging/scSimEval
+[submodule "scSimEvalStudio"]
+	path = scSimEvalStudio
+	url = https://github.com/BiocStaging/scSimEvalStudio
 [submodule "sceptre"]
 	path = sceptre
 	url = https://github.com/BiocStaging/sceptre
