@@ -59,6 +59,9 @@
 [submodule "MacrophageFramework"]
 	path = MacrophageFramework
 	url = https://github.com/BiocStaging/MacrophageFramework
+[submodule "MicroBioMeta"]
+	path = MicroBioMeta
+	url = https://github.com/BiocStaging/MicroBioMeta
 [submodule "MsBackendTimsTof"]
 	path = MsBackendTimsTof
 	url = https://github.com/BiocStaging/MsBackendTimsTof
