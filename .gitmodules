@@ -149,9 +149,6 @@
 [submodule "conformeR"]
 	path = conformeR
 	url = https://github.com/BiocStaging/conformeR
-[submodule "consensusRegions"]
-	path = consensusRegions
-	url = https://github.com/BiocStaging/consensusRegions
 [submodule "consensusTADs"]
 	path = consensusTADs
 	url = https://github.com/BiocStaging/consensusTADs
