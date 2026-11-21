@@ -275,9 +275,6 @@
 [submodule "sciNOME"]
 	path = sciNOME
 	url = https://github.com/BiocStaging/sciNOME
-[submodule "selexprepR"]
-	path = selexprepR
-	url = https://github.com/BiocStaging/selexprepR
 [submodule "spatialDESeq"]
 	path = spatialDESeq
 	url = https://github.com/BiocStaging/spatialDESeq
