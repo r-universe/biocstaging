@@ -206,6 +206,9 @@
 [submodule "hmagmaR"]
 	path = hmagmaR
 	url = https://github.com/BiocStaging/hmagmaR
+[submodule "homerViz"]
+	path = homerViz
+	url = https://github.com/BiocStaging/homerViz
 [submodule "looOmics"]
 	path = looOmics
 	url = https://github.com/BiocStaging/looOmics
