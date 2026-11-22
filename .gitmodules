@@ -107,6 +107,9 @@
 [submodule "SPAROscore"]
 	path = SPAROscore
 	url = https://github.com/BiocStaging/SPAROscore
+[submodule "STBench"]
+	path = STBench
+	url = https://github.com/BiocStaging/STBench
 [submodule "SegStability"]
 	path = SegStability
 	url = https://github.com/BiocStaging/SegStability
