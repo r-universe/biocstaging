@@ -224,6 +224,9 @@
 [submodule "mdclust"]
 	path = mdclust
 	url = https://github.com/BiocStaging/mdclust
+[submodule "methylVCF"]
+	path = methylVCF
+	url = https://github.com/BiocStaging/methylVCF
 [submodule "miREA"]
 	path = miREA
 	url = https://github.com/BiocStaging/miREA
