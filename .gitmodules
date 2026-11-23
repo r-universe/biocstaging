@@ -5,9 +5,6 @@
 [submodule "BamScaleR"]
 	path = BamScaleR
 	url = https://github.com/BiocStaging/BamScaleR
-[submodule "BreedingExperiment"]
-	path = BreedingExperiment
-	url = https://github.com/BiocStaging/BreedingExperiment
 [submodule "CDEnrich"]
 	path = CDEnrich
 	url = https://github.com/BiocStaging/CDEnrich
@@ -71,9 +68,6 @@
 [submodule "OmicsLake"]
 	path = OmicsLake
 	url = https://github.com/BiocStaging/OmicsLake
-[submodule "OmniCorr"]
-	path = OmniCorr
-	url = https://github.com/BiocStaging/OmniCorr
 [submodule "OncoSeq"]
 	path = OncoSeq
 	url = https://github.com/BiocStaging/OncoSeq
