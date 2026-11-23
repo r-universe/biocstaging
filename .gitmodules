@@ -53,6 +53,9 @@
 [submodule "MacrophageFramework"]
 	path = MacrophageFramework
 	url = https://github.com/BiocStaging/MacrophageFramework
+[submodule "MetVAE"]
+	path = MetVAE
+	url = https://github.com/BiocStaging/MetVAE
 [submodule "MicroBioMeta"]
 	path = MicroBioMeta
 	url = https://github.com/BiocStaging/MicroBioMeta
