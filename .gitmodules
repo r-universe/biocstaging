@@ -53,9 +53,6 @@
 [submodule "MOTL"]
 	path = MOTL
 	url = https://github.com/BiocStaging/MOTL
-[submodule "MRCCC"]
-	path = MRCCC
-	url = https://github.com/BiocStaging/MRCCC
 [submodule "MacrophageFramework"]
 	path = MacrophageFramework
 	url = https://github.com/BiocStaging/MacrophageFramework
