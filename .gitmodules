@@ -122,6 +122,9 @@
 [submodule "SwitchClass"]
 	path = SwitchClass
 	url = https://github.com/BiocStaging/SwitchClass
+[submodule "TriGer"]
+	path = TriGer
+	url = https://github.com/BiocStaging/TriGer
 [submodule "TweedSpot"]
 	path = TweedSpot
 	url = https://github.com/BiocStaging/TweedSpot
