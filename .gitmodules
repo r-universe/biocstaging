@@ -194,6 +194,9 @@
 [submodule "gDRplots"]
 	path = gDRplots
 	url = https://github.com/BiocStaging/gDRplots
+[submodule "geneSetSimplifyR"]
+	path = geneSetSimplifyR
+	url = https://github.com/BiocStaging/geneSetSimplifyR
 [submodule "geneticumap"]
 	path = geneticumap
 	url = https://github.com/BiocStaging/geneticumap
@@ -230,9 +233,6 @@
 [submodule "omicslog"]
 	path = omicslog
 	url = https://github.com/BiocStaging/omicslog
-[submodule "orthoRibbon"]
-	path = orthoRibbon
-	url = https://github.com/BiocStaging/orthoRibbon
 [submodule "paweh"]
 	path = paweh
 	url = https://github.com/BiocStaging/paweh
