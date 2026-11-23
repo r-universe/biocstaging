@@ -185,9 +185,6 @@
 [submodule "fuzzyCell"]
 	path = fuzzyCell
 	url = https://github.com/BiocStaging/fuzzyCell
-[submodule "gDRplots"]
-	path = gDRplots
-	url = https://github.com/BiocStaging/gDRplots
 [submodule "geneSetSimplifyR"]
 	path = geneSetSimplifyR
 	url = https://github.com/BiocStaging/geneSetSimplifyR
