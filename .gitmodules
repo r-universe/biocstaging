@@ -176,9 +176,6 @@
 [submodule "exploreDE"]
 	path = exploreDE
 	url = https://github.com/BiocStaging/exploreDE
-[submodule "exposomeSC"]
-	path = exposomeSC
-	url = https://github.com/BiocStaging/exposomeSC
 [submodule "faissR"]
 	path = faissR
 	url = https://github.com/BiocStaging/faissR
