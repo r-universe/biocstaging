@@ -95,6 +95,9 @@
 [submodule "RGenEDA"]
 	path = RGenEDA
 	url = https://github.com/BiocStaging/RGenEDA
+[submodule "Ropenbabel"]
+	path = Ropenbabel
+	url = https://github.com/BiocStaging/Ropenbabel
 [submodule "SACAT"]
 	path = SACAT
 	url = https://github.com/BiocStaging/SACAT
