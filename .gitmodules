@@ -11,9 +11,6 @@
 [submodule "CPTACdata"]
 	path = CPTACdata
 	url = https://github.com/BiocStaging/CPTACdata
-[submodule "ConvergeR"]
-	path = ConvergeR
-	url = https://github.com/BiocStaging/ConvergeR
 [submodule "DEP"]
 	path = DEP
 	url = https://github.com/BiocStaging/DEP
@@ -128,9 +125,6 @@
 [submodule "Tweedieverse"]
 	path = Tweedieverse
 	url = https://github.com/BiocStaging/Tweedieverse
-[submodule "TxDb.Gmax.JGI.Gmv4"]
-	path = TxDb.Gmax.JGI.Gmv4
-	url = https://github.com/BiocStaging/TxDb.Gmax.JGI.Gmv4
 [submodule "TxParq.Hs.gencode.v49"]
 	path = TxParq.Hs.gencode.v49
 	url = https://github.com/BiocStaging/TxParq.Hs.gencode.v49
