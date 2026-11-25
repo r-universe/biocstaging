@@ -263,9 +263,6 @@
 [submodule "scMAGeCK"]
 	path = scMAGeCK
 	url = https://github.com/BiocStaging/scMAGeCK
-[submodule "scSimEval"]
-	path = scSimEval
-	url = https://github.com/BiocStaging/scSimEval
 [submodule "scSimEvalStudio"]
 	path = scSimEvalStudio
 	url = https://github.com/BiocStaging/scSimEvalStudio
@@ -275,9 +272,9 @@
 [submodule "sciNOME"]
 	path = sciNOME
 	url = https://github.com/BiocStaging/sciNOME
-[submodule "spatialDESeq"]
-	path = spatialDESeq
-	url = https://github.com/BiocStaging/spatialDESeq
+[submodule "spatialLagGLM"]
+	path = spatialLagGLM
+	url = https://github.com/BiocStaging/spatialLagGLM
 [submodule "spbtest3"]
 	path = spbtest3
 	url = https://github.com/Bioconductor/spbtest3
