@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/biocstaging/biocstaging.r-universe.dev
 	branch = HEAD
+[submodule "ABCatlasR"]
+	path = ABCatlasR
+	url = https://github.com/BiocStaging/ABCatlasR
 [submodule "BamScaleR"]
 	path = BamScaleR
 	url = https://github.com/BiocStaging/BamScaleR
