@@ -125,9 +125,6 @@
 [submodule "Tweedieverse"]
 	path = Tweedieverse
 	url = https://github.com/BiocStaging/Tweedieverse
-[submodule "TxParq.Hs.gencode.v49"]
-	path = TxParq.Hs.gencode.v49
-	url = https://github.com/BiocStaging/TxParq.Hs.gencode.v49
 [submodule "basicBulk"]
 	path = basicBulk
 	url = https://github.com/BiocStaging/basicBulk
