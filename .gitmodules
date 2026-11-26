@@ -95,6 +95,9 @@
 [submodule "Ropenbabel"]
 	path = Ropenbabel
 	url = https://github.com/BiocStaging/Ropenbabel
+[submodule "RscDRS"]
+	path = RscDRS
+	url = https://github.com/BiocStaging/RscDRS
 [submodule "SACAT"]
 	path = SACAT
 	url = https://github.com/BiocStaging/SACAT
